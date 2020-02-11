@@ -45,27 +45,27 @@
         <mashita_positif>いきました</mashita_positif>
         <mashita_negatif>いきませんでした</mashita_negatif>
         <te_positif>いって</te_positif>
-        <te_negatif></te_negatif>
+        <te_negatif> </te_negatif>
         <tai_positif>いきたい</tai_positif>
         <tai_negatif>いきたくない</tai_negatif>
         <mashou_positif>いきましょう</mashou_positif>
-        <mashou_negatif></mashou_negatif>
+        <mashou_negatif> </mashou_negatif>
         <kamus_positif>いく</kamus_positif>
         <kamus_negatif>いかない</kamus_negatif>
         <ta_positif>いった</ta_positif>
         <ta_negatif>いかなかった</ta_negatif>
         <tara_positif>いったら</tara_positif>
-        <tara_negatif></tara_negatif>
+        <tara_negatif> </tara_negatif>
         <potensial_positif>いけます</potensial_positif>
         <potensial_negatif>いけません</potensial_negatif>
         <ajakan_positif>いこう</ajakan_positif>
-        <ajakan_negatif></ajakan_negatif>
+        <ajakan_negatif> </ajakan_negatif>
         <perintah_positif>いけ</perintah_positif>
-        <perintah_negatif></perintah_negatif>
+        <perintah_negatif> </perintah_negatif>
         <larangan_positif>いくな</larangan_positif>
-        <larangan_negatif></larangan_negatif>
+        <larangan_negatif> </larangan_negatif>
         <ba_positif>いけば</ba_positif>
-        <ba_negatif></ba_negatif>
+        <ba_negatif> </ba_negatif>
         <pasif_positif>いかれます</pasif_positif>
         <pasif_negatif>いかれません</pasif_negatif>
     </konjugasi>
@@ -78,27 +78,27 @@
         <mashita_positif>みました</mashita_positif>
         <mashita_negatif>みませんでした</mashita_negatif>
         <te_positif>みて</te_positif>
-        <te_negatif></te_negatif>
+        <te_negatif> </te_negatif>
         <tai_positif>みたい</tai_positif>
         <tai_negatif>みたくない</tai_negatif>
         <mashou_positif>みましょう</mashou_positif>
-        <mashou_negatif></mashou_negatif>
+        <mashou_negatif> </mashou_negatif>
         <kamus_positif>みる</kamus_positif>
         <kamus_negatif>みない</kamus_negatif>
         <ta_positif>みた</ta_positif>
         <ta_negatif>みなかった</ta_negatif>
         <tara_positif>みたら</tara_positif>
-        <tara_negatif></tara_negatif>
+        <tara_negatif> </tara_negatif>
         <potensial_positif>みれます</potensial_positif>
         <potensial_negatif>みれません</potensial_negatif>
         <ajakan_positif>みよう</ajakan_positif>
-        <ajakan_negatif></ajakan_negatif>
+        <ajakan_negatif> </ajakan_negatif>
         <perintah_positif>みろ</perintah_positif>
-        <perintah_negatif></perintah_negatif>
+        <perintah_negatif> </perintah_negatif>
         <larangan_positif>みるな</larangan_positif>
-        <larangan_negatif></larangan_negatif>
+        <larangan_negatif> </larangan_negatif>
         <ba_positif>みれば</ba_positif>
-        <ba_negatif></ba_negatif>
+        <ba_negatif> </ba_negatif>
         <pasif_positif>みられます</pasif_positif>
         <pasif_negatif>みられません</pasif_negatif>
     </konjugasi>
@@ -111,27 +111,27 @@
         <mashita_positif>べんきょうしました</mashita_positif>
         <mashita_negatif>べんきょうしませんでした</mashita_negatif>
         <te_positif>べんきょうして</te_positif>
-        <te_negatif></te_negatif>
+        <te_negatif> </te_negatif>
         <tai_positif>べんきょうしたい</tai_positif>
         <tai_negatif>べんきょうしたくない</tai_negatif>
         <mashou_positif>べんきょうしまよう</mashou_positif>
-        <mashou_negatif></mashou_negatif>
+        <mashou_negatif> </mashou_negatif>
         <kamus_positif>べんきょうする</kamus_positif>
         <kamus_negatif>べんきょうしない</kamus_negatif>
         <ta_positif>べんきょうした</ta_positif>
         <ta_negatif>べんきょうしなかった</ta_negatif>
         <tara_positif>べんきょうしたら</tara_positif>
-        <tara_negatif></tara_negatif>
+        <tara_negatif> </tara_negatif>
         <potensial_positif>べんきょうできます</potensial_positif>
         <potensial_negatif>べんきょうできません</potensial_negatif>
         <ajakan_positif>べんきょうしよう</ajakan_positif>
-        <ajakan_negatif></ajakan_negatif>
+        <ajakan_negatif> </ajakan_negatif>
         <perintah_positif>べんきょうしろ</perintah_positif>
-        <perintah_negatif></perintah_negatif>
+        <perintah_negatif> </perintah_negatif>
         <larangan_positif>べんきょうするな</larangan_positif>
-        <larangan_negatif></larangan_negatif>
+        <larangan_negatif> </larangan_negatif>
         <ba_positif>べんきょうすれば</ba_positif>
-        <ba_negatif></ba_negatif>
+        <ba_negatif> </ba_negatif>
         <pasif_positif>べんきょうされます</pasif_positif>
         <pasif_negatif>べんきょうされません</pasif_negatif>
     </konjugasi>

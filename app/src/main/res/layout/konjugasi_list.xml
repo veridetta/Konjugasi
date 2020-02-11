@@ -5,23 +5,24 @@
     android:orientation="horizontal"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_marginTop="@dimen/_8sdp"
-    android:layout_marginBottom="@dimen/_8sdp">
+    android:layout_marginBottom="@dimen/_8sdp"
+    android:paddingLeft="@dimen/_8sdp"
+    android:paddingRight="@dimen/_8sdp">
     <androidx.cardview.widget.CardView
         android:id="@+id/card_menu"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:cardCornerRadius="@dimen/_28sdp">
+        app:cardCornerRadius="@dimen/_12sdp">
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:layout_margin="@dimen/_1sdp"
             app:cardBackgroundColor="@color/grey_200"
-            app:cardCornerRadius="@dimen/_28sdp">
+            app:cardCornerRadius="@dimen/_12sdp">
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:padding="@dimen/_5sdp"
                 android:background="@color/white"
                 android:orientation="vertical">
                 <LinearLayout
@@ -31,12 +32,17 @@
                     android:paddingTop="@dimen/_15sdp"
                     android:orientation="vertical">
                     <TextView
+                        android:layout_width="1dp"
+                        android:layout_height="1dp"
+                        android:id="@+id/txt_id"
+                        android:visibility="gone"/>
+                    <TextView
                         android:id="@+id/card_kanji"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:gravity="center"
-                        android:textSize="@dimen/_25sdp"
+                        android:textSize="@dimen/_20sdp"
                         android:textColor="@color/blue_500"
                         android:textStyle="bold"
                         android:text="日本語"
@@ -46,8 +52,8 @@
                     android:layout_marginTop="@dimen/_8sdp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:paddingTop="@dimen/_15sdp"
-                    android:paddingBottom="@dimen/_15sdp"
+                    android:paddingTop="@dimen/_10sdp"
+                    android:paddingBottom="@dimen/_10sdp"
                     android:background="@color/orange_500"
                     android:orientation="vertical">
                     <TextView
@@ -56,7 +62,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:gravity="center"
-                        android:textSize="@dimen/_16sdp"
+                        android:textSize="@dimen/_13sdp"
                         android:textColor="@color/white"
                         android:text="Bahasa Jepang"
                         />

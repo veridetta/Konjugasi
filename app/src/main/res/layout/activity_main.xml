@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/grey_200"
     tools:context=".MainActivity">
     <RelativeLayout
@@ -28,21 +29,13 @@
                     android:textSize="@dimen/_17sdp"
                     android:textColor="@color/white"
                     android:text="Konjugasi Kata Kerja Bahasa Jepang"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center"
-                    android:gravity="center"
-                    android:text="Cari Konjugasi"
-                    android:textSize="@dimen/_19sdp"
-                    android:textColor="@color/white"
-                    android:textStyle="bold"/>
+
                 <LinearLayout
                     android:id="@+id/cari_ly"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
-                    android:layout_marginTop="@dimen/_4sdp"
+                    android:layout_marginTop="@dimen/_15sdp"
                     android:padding="@dimen/_5sdp">
                     <com.google.android.material.textfield.TextInputLayout
                         android:id="@+id/cari_input_ly"
@@ -50,25 +43,24 @@
                         android:layout_height="wrap_content"
                         android:background="@color/white"
                         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
-                        <com.google.android.material.textfield.TextInputEditText
+                        <SearchView
                             android:id="@+id/cari_input"
-                            android:drawableLeft="@drawable/search"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
+                            android:iconifiedByDefault="false"
                             android:inputType="text"
-                            android:maxLines="1"
-                            android:hint="Cari konjugasi (Indo / 日本語)"/>
+                            android:maxLines="1" />
                     </com.google.android.material.textfield.TextInputLayout>
                 </LinearLayout>
             </LinearLayout>
-            <LinearLayout
+            <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
                 <androidx.core.widget.NestedScrollView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:paddingBottom="@dimen/_15sdp">
-                    <LinearLayout
+                    <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:padding="@dimen/_6sdp"
@@ -80,6 +72,7 @@
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
                             android:layout_gravity="center"
+                            android:paddingTop="@dimen/_12sdp"
                             android:gravity="center">
                             <LinearLayout
                                 android:layout_width="match_parent"
@@ -116,15 +109,33 @@
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
                             android:paddingTop="@dimen/_17sdp"
-                            android:paddingBottom="@dimen/_17sdp">
+                            android:background="@color/grey_200"
+                            android:paddingBottom="@dimen/_19sdp">
                             <androidx.recyclerview.widget.RecyclerView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
+                                android:orientation="vertical"
                                 android:id="@+id/rc_hasil" />
                         </LinearLayout>
-                    </LinearLayout>
+                    </RelativeLayout>
                 </androidx.core.widget.NestedScrollView>
-            </LinearLayout>
+            </RelativeLayout>
         </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:padding="@dimen/_10sdp"
+        android:gravity="right">
+        <Button
+            android:id="@+id/btn_about"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="! About Us!"
+            android:padding="@dimen/_4sdp"
+            android:textSize="@dimen/_12sdp"
+            android:textColor="@color/white"
+            android:background="@color/blue_500"/>
     </RelativeLayout>
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

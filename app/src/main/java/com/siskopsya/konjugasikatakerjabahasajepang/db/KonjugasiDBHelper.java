@@ -4,6 +4,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.util.Log;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -33,6 +34,7 @@ public class KonjugasiDBHelper extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase db) {
         db.execSQL(CREATE_USER_TABLE);
+
     }
 
     @Override
@@ -65,7 +67,6 @@ public class KonjugasiDBHelper extends SQLiteOpenHelper {
             KonjugasiDB.KonjugasiDatabase.kamus_negatif + " text," +
             KonjugasiDB.KonjugasiDatabase.ta_positif + " text," +
             KonjugasiDB.KonjugasiDatabase.ta_negatif + " text," +
-            KonjugasiDB.KonjugasiDatabase.masu_positif + " text," +
             KonjugasiDB.KonjugasiDatabase.tara_positif + " text," +
             KonjugasiDB.KonjugasiDatabase.tara_negatif + " text," +
             KonjugasiDB.KonjugasiDatabase.potensial_positif + " text," +
@@ -149,7 +150,7 @@ public class KonjugasiDBHelper extends SQLiteOpenHelper {
             db.execSQL(insertStmt);
         }
     }
-    private ArrayList<Konjugasi> buildGroceryArrayList() {
+    public ArrayList<Konjugasi> buildGroceryArrayList() {
         ArrayList<Konjugasi> aL = new ArrayList<Konjugasi>();
         DocumentBuilderFactory factory = DocumentBuilderFactory
                 .newInstance();
@@ -256,6 +257,7 @@ public class KonjugasiDBHelper extends SQLiteOpenHelper {
                         ajakan_negatif,perintah_positif,perintah_negatif,larangan_positif,
                         larangan_negatif,ba_positif,ba_negatif,
                         pasif_positif,pasif_negatif,position,2));
+                Log.d("No","Berhasil"+groceryItems.getLength());
             }
         } catch (Exception e) {
             e.printStackTrace();
