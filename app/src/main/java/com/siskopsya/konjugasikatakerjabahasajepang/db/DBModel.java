@@ -6,7 +6,7 @@ public class DBModel {
             te_positif,te_negatif,tai_positif,tai_negatif,mashou_positif,mashou_negatif,kamus_positif,
             kamus_negatif,ta_positif,ta_negatif,tara_positif,tara_negatif,potensial_positif,
             potensial_negatif,ajakan_positif,ajakan_negatif,perintah_positif,perintah_negatif,
-            larangan_positif,larangan_negatif,ba_positif,ba_negatif,pasif_positif,pasif_negatif;
+            larangan_positif,larangan_negatif,ba_positif,ba_negatif,pasif_positif,pasif_negatif, gabungan;
 
     public String getId() {
         return id;
@@ -223,8 +223,13 @@ public class DBModel {
     public String getPasif_negatif() {
         return pasif_negatif;
     }
-
     public void setPasif_negatif(String pasif_negatif) {
         this.pasif_negatif = pasif_negatif;
+    }
+    public String getGabungan(){
+        return gabungan;
+    }
+    public void setGabungan(String gabungan) {
+        this.gabungan= gabungan;
     }
 }

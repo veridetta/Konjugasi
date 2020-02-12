@@ -599,7 +599,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Potensial (~ らねます )"
+                        android:text="Bentuk Potensial (~ られます )"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout
@@ -707,7 +707,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Perintah"
+                        android:text="Bentuk Perintah(~ろ)"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout
@@ -761,7 +761,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Larangan"
+                        android:text="Bentuk Larangan(~るな)"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout
@@ -815,7 +815,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Ba"
+                        android:text="Bentuk Ba (~ば)"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout
@@ -869,7 +869,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Pasif"
+                        android:text="Bentuk Pasif (~れます)"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout

@@ -32,7 +32,7 @@ public class CustomFilter extends Filter {
             for (int i=0;i<filterList.size();i++)
             {
                 //CHECK
-                if(filterList.get(i).getName().toUpperCase().contains(constraint))
+                if(filterList.get(i).getGabungan().toUpperCase().contains(constraint))
                 {
                     //ADD PLAYER TO FILTERED PLAYERS
                     filteredPlayers.add(filterList.get(i));

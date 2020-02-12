@@ -102,6 +102,7 @@ public class DBHelper extends SQLiteOpenHelper {
                 model.setId(cursor.getString(0));
                 model.setName(cursor.getString(1));
                 model.setKanji(cursor.getString(2));
+                model.setGabungan(cursor.getString(1)+" "+cursor.getString(2));
                 modelList.add(model);
             }while (cursor.moveToNext());
         }
