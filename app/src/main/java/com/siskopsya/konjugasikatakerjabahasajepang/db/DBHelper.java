@@ -92,7 +92,6 @@ public class DBHelper extends SQLiteOpenHelper {
     public List<DBModel> getDataFromDB(){
         List<DBModel> modelList = new ArrayList<DBModel>();
         String query = "select * from "+STUDENT_TABLE;
-
         SQLiteDatabase db = this.getWritableDatabase();
         Cursor cursor = db.rawQuery(query,null);
 

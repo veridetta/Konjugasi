@@ -30,9 +30,14 @@ public class DetailActivity extends AppCompatActivity {
     DBHelper db;
     TextView kanji, kata, masu_positif, masu_negatif,mashita_positif,mashita_negatif,
             te_positif,te_negatif,tai_positif,tai_negatif,mashou_positif,mashou_negatif,kamus_positif,
-            kamus_negatif,ta_positif,ta_negatif,tara_positif,tara_negatif,potensial_positif,
-            potensial_negatif,ajakan_positif,ajakan_negatif,perintah_positif,perintah_negatif,
-            larangan_positif,larangan_negatif,ba_positif,ba_negatif,pasif_positif,pasif_negatif;
+            kamus_negatif,ta_positif,ta_negatif,
+            //tara_positif,tara_negatif,
+            potensial_positif,
+            potensial_negatif,ajakan_positif,ajakan_negatif, perintah_positif,
+                    //perintah_negatif,
+                    larangan_positif,
+                            //larangan_negatif,
+                            ba_positif,ba_negatif,pasif_positif,pasif_negatif;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -59,16 +64,16 @@ public class DetailActivity extends AppCompatActivity {
         kamus_negatif = findViewById(R.id.kamus_negatif);
         ta_positif = findViewById(R.id.ta_positif);
         ta_negatif = findViewById(R.id.ta_negatif);
-        tara_positif = findViewById(R.id.tara_positif);
-        tara_negatif = findViewById(R.id.tara_negatif);
+        //tara_positif = findViewById(R.id.tara_positif);
+        //tara_negatif = findViewById(R.id.tara_negatif);
         potensial_positif = findViewById(R.id.potensial_positif);
         potensial_negatif = findViewById(R.id.potensial_negatif);
         ajakan_positif = findViewById(R.id.ajakan_positif);
         ajakan_negatif = findViewById(R.id.ajakan_negatif);
         perintah_positif = findViewById(R.id.perintah_positif);
-        perintah_negatif = findViewById(R.id.perintah_negatif);
+        //perintah_negatif = findViewById(R.id.perintah_negatif);
         larangan_positif = findViewById(R.id.larangan_positif);
-        larangan_negatif = findViewById(R.id.larangan_negatif);
+        //larangan_negatif = findViewById(R.id.larangan_negatif);
         ba_positif = findViewById(R.id.ba_positif);
         ba_negatif = findViewById(R.id.ba_negatif);
         pasif_positif = findViewById(R.id.pasif_positif);
@@ -92,16 +97,16 @@ public class DetailActivity extends AppCompatActivity {
         kamus_negatif.setText(dbList.get(0).getKamus_negatif());
         ta_positif.setText(dbList.get(0).getTa_positif());
         ta_negatif.setText(dbList.get(0).getTa_negatif());
-        tara_positif.setText(dbList.get(0).getTara_positif());
-        tara_negatif.setText(dbList.get(0).getTara_negatif());
+        //tara_positif.setText(dbList.get(0).getTara_positif());
+        //tara_negatif.setText(dbList.get(0).getTara_negatif());
         potensial_positif.setText(dbList.get(0).getPotensial_positif());
         potensial_negatif.setText(dbList.get(0).getPotensial_negatif());
         ajakan_positif.setText(dbList.get(0).getAjakan_positif());
         ajakan_negatif.setText(dbList.get(0).getAjakan_negatif());
         perintah_positif.setText(dbList.get(0).getPerintah_positif());
-        perintah_negatif.setText(dbList.get(0).getPerintah_negatif());
+        //perintah_negatif.setText(dbList.get(0).getPerintah_negatif());
         larangan_positif.setText(dbList.get(0).getLarangan_positif());
-        larangan_negatif.setText(dbList.get(0).getLarangan_negatif());
+        //larangan_negatif.setText(dbList.get(0).getLarangan_negatif());
         ba_positif.setText(dbList.get(0).getBa_positif());
         ba_negatif.setText(dbList.get(0).getBa_negatif());
         pasif_positif.setText(dbList.get(0).getPasif_positif());

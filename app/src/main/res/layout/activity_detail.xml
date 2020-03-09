@@ -21,7 +21,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="@dimen/_60sdp"
                     android:background="@color/blue_500">
-
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -118,16 +117,31 @@
                     android:background="@color/orange_500"
                     android:padding="@dimen/_8sdp"
                     android:orientation="horizontal"
-                    android:weightSum="2">
+                    android:weightSum="7">
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            android:textSize="@dimen/_12sdp"
+                            android:visibility="invisible"
+                            android:textColor="@color/black"
+                            android:text="Formal"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
                         android:padding="@dimen/_6sdp">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="Positif"
+                            android:text="Afirmative"
                             android:textSize="@dimen/_13sdp"
                             android:textStyle="bold"
                             android:textColor="@color/white"
@@ -138,7 +152,7 @@
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1"
+                        android:layout_weight="3"
                         android:padding="@dimen/_6sdp">
                         <TextView
                             android:layout_width="match_parent"
@@ -167,7 +181,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Masu (~ ます )"
+                        android:text="Bentuk Indikasi Berlangsung"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout
@@ -175,16 +189,29 @@
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
                     android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
+                    android:weightSum="7">
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="1"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
+                            android:paddingRight="@dimen/_4sdp"
+                            android:textSize="@dimen/_12sdp"
+                            android:textColor="@color/black"
+                            android:text="Formal"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/masu_positif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
@@ -193,13 +220,61 @@
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="3"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/masu_negatif"
+                            android:textSize="@dimen/_12sdp"
+                            android:textColor="@color/black"
+                            android:text="Masu Positif"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/_4sdp"
+                    android:weightSum="7">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingRight="@dimen/_2sdp"
+                            android:textSize="@dimen/_12sdp"
+                            android:textColor="@color/black"
+                            android:text="Informal"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/_4sdp"
+                            android:id="@+id/kamus_positif"
+                            android:textSize="@dimen/_12sdp"
+                            android:textColor="@color/black"
+                            android:text="Masu Positif"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/_4sdp"
+                            android:id="@+id/kamus_negatif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
                             android:text="Masu Positif"/>
@@ -221,7 +296,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Mashita (~ ました  )"
+                        android:text="Bentuk Indikasi Lampau"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout
@@ -229,17 +304,82 @@
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
                     android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
+                    android:weightSum="7">
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="1"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
+                            android:paddingRight="@dimen/_4sdp"
+                            android:textSize="@dimen/_12sdp"
+                            android:textColor="@color/black"
+                            android:text="Formal"/>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/mashita_positif"
+                            android:textSize="@dimen/_12sdp"
+                            android:textColor="@color/black"
+                            android:text="Masu Positif"/>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/_4sdp"
+                            android:id="@+id/mashita_negatif"
+                            android:textSize="@dimen/_12sdp"
+                            android:textColor="@color/black"
+                            android:text="Masu Positif"/>
+
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/_4sdp"
+                    android:weightSum="7">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingRight="@dimen/_2sdp"
+                            android:textSize="@dimen/_12sdp"
+                            android:textColor="@color/black"
+                            android:text="Informal"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/_4sdp"
+                            android:id="@+id/ta_positif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
                             android:text="Masu Positif"/>
@@ -247,13 +387,13 @@
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="3"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:id="@+id/mashita_negatif"
+                            android:paddingLeft="@dimen/_4sdp"
+                            android:id="@+id/ta_negatif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
                             android:text="Masu Positif"/>
@@ -283,16 +423,30 @@
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
                     android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
+                    android:weightSum="7">
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="1"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:gravity="center"
+                            android:textSize="@dimen/_12sdp"
+                            android:visibility="invisible"
+                            android:textColor="@color/black"
+                            android:text="InFormal"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/te_positif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
@@ -301,12 +455,11 @@
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="3">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/te_negatif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
@@ -337,16 +490,30 @@
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
                     android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
+                    android:weightSum="7">
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="1"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:gravity="center"
+                            android:textSize="@dimen/_12sdp"
+                            android:visibility="invisible"
+                            android:textColor="@color/black"
+                            android:text="InFormal"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/tai_positif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
@@ -355,12 +522,11 @@
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="3">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/tai_negatif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
@@ -383,7 +549,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Mashou (~ ましょう )"
+                        android:text="Bentuk Ajakan"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout
@@ -391,179 +557,83 @@
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
                     android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
+                    android:weightSum="7">
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="1"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
+                            android:paddingRight="@dimen/_4sdp"
+                            android:textSize="@dimen/_12sdp"
+                            android:textColor="@color/black"
+                            android:text="Formal"/>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/mashou_positif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
                             android:text="Masu Positif"/>
+
                     </LinearLayout>
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="3"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/mashou_negatif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
                             android:text="Masu Positif"/>
-                    </LinearLayout>
-                </LinearLayout>
-            </LinearLayout>
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:background="@color/white">
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:padding="@dimen/_4sdp"
-                    android:background="@color/grey_400">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:textColor="@color/black"
-                        android:text="Bentuk Kamus (~ る )"
-                        android:textSize="@dimen/_12sdp"/>
+                    </LinearLayout>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
                     android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
+                    android:weightSum="7">
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:id="@+id/kamus_positif"
-                            android:textSize="@dimen/_12sdp"
-                            android:textColor="@color/black"
-                            android:text="Masu Positif"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1">
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:id="@+id/kamus_negatif"
-                            android:textSize="@dimen/_12sdp"
-                            android:textColor="@color/black"
-                            android:text="Masu Positif"/>
-                    </LinearLayout>
-                </LinearLayout>
-            </LinearLayout>
+                        android:layout_weight="1"
+                        android:orientation="vertical">
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:background="@color/white">
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:padding="@dimen/_4sdp"
-                    android:background="@color/grey_400">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:textColor="@color/black"
-                        android:text="Bentuk Ta (~ た )"
-                        android:textSize="@dimen/_12sdp"/>
-                </LinearLayout>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal"
-                    android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:id="@+id/ta_positif"
+                            android:paddingRight="@dimen/_2sdp"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
-                            android:text="Masu Positif"/>
+                            android:text="Informal"/>
                     </LinearLayout>
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:id="@+id/ta_negatif"
-                            android:textSize="@dimen/_12sdp"
-                            android:textColor="@color/black"
-                            android:text="Masu Positif"/>
-                    </LinearLayout>
-                </LinearLayout>
-            </LinearLayout>
+                        android:layout_weight="3"
+                        android:orientation="vertical">
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:background="@color/white">
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:padding="@dimen/_4sdp"
-                    android:background="@color/grey_400">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:textColor="@color/black"
-                        android:text="Bentuk Tara (~ たら )"
-                        android:textSize="@dimen/_12sdp"/>
-                </LinearLayout>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal"
-                    android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:id="@+id/tara_positif"
+                            android:paddingLeft="@dimen/_4sdp"
+                            android:id="@+id/ajakan_positif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
                             android:text="Masu Positif"/>
@@ -571,13 +641,13 @@
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="3"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:id="@+id/tara_negatif"
+                            android:paddingLeft="@dimen/_4sdp"
+                            android:id="@+id/ajakan_negatif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
                             android:text="Masu Positif"/>
@@ -607,16 +677,30 @@
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
                     android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
+                    android:weightSum="7">
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="1"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:gravity="center"
+                            android:textSize="@dimen/_12sdp"
+                            android:visibility="invisible"
+                            android:textColor="@color/black"
+                            android:text="InFormal"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/potensial_positif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
@@ -625,12 +709,11 @@
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="3">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/potensial_negatif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
@@ -653,7 +736,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Ajakan (~ よう )"
+                        android:text="Bentuk Perintah dan Larangan"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout
@@ -661,70 +744,30 @@
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
                     android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
+                    android:weightSum="7">
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="1"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:gravity="center"
-                            android:id="@+id/ajakan_positif"
                             android:textSize="@dimen/_12sdp"
+                            android:visibility="invisible"
                             android:textColor="@color/black"
-                            android:text="Masu Positif"/>
+                            android:text="InFormal"/>
                     </LinearLayout>
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="3">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:id="@+id/ajakan_negatif"
-                            android:textSize="@dimen/_12sdp"
-                            android:textColor="@color/black"
-                            android:text="Masu Positif"/>
-                    </LinearLayout>
-                </LinearLayout>
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:background="@color/white">
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:padding="@dimen/_4sdp"
-                    android:background="@color/grey_400">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:textColor="@color/black"
-                        android:text="Bentuk Perintah(~ろ)"
-                        android:textSize="@dimen/_12sdp"/>
-                </LinearLayout>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal"
-                    android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1">
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/perintah_positif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
@@ -733,13 +776,12 @@
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="3">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:id="@+id/perintah_negatif"
+                            android:paddingLeft="@dimen/_4sdp"
+                            android:id="@+id/larangan_positif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
                             android:text="Masu Positif"/>
@@ -747,59 +789,6 @@
                 </LinearLayout>
             </LinearLayout>
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:background="@color/white">
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:padding="@dimen/_4sdp"
-                    android:background="@color/grey_400">
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:textColor="@color/black"
-                        android:text="Bentuk Larangan(~るな)"
-                        android:textSize="@dimen/_12sdp"/>
-                </LinearLayout>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal"
-                    android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1">
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:id="@+id/larangan_positif"
-                            android:textSize="@dimen/_12sdp"
-                            android:textColor="@color/black"
-                            android:text="Masu Positif"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1">
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
-                            android:id="@+id/larangan_negatif"
-                            android:textSize="@dimen/_12sdp"
-                            android:textColor="@color/black"
-                            android:text="Masu Positif"/>
-                    </LinearLayout>
-                </LinearLayout>
-            </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -823,16 +812,30 @@
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
                     android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
+                    android:weightSum="7">
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="1"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:gravity="center"
+                            android:textSize="@dimen/_12sdp"
+                            android:visibility="invisible"
+                            android:textColor="@color/black"
+                            android:text="InFormal"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/ba_positif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
@@ -841,12 +844,11 @@
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="3">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/ba_negatif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
@@ -877,16 +879,29 @@
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
                     android:padding="@dimen/_4sdp"
-                    android:weightSum="2">
+                    android:weightSum="7">
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="1"
+                        android:orientation="vertical">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
+                            android:paddingLeft="@dimen/_4sdp"
+                            android:textSize="@dimen/_12sdp"
+                            android:visibility="invisible"
+                            android:textColor="@color/black"
+                            android:text="InFormal"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="3">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/pasif_positif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
@@ -895,12 +910,11 @@
                     <LinearLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1">
+                        android:layout_weight="3">
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center"
-                            android:gravity="center"
+                            android:paddingLeft="@dimen/_4sdp"
                             android:id="@+id/pasif_negatif"
                             android:textSize="@dimen/_12sdp"
                             android:textColor="@color/black"
