@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DBHelper extends SQLiteOpenHelper {
-    private static final String DATABASE_NAME="konjugasi";
+    private static final String DATABASE_NAME="konjugasikatakerja";
     private static final int DATABASE_VERSION = 1;
     private static final String STUDENT_TABLE = "konjugasi";
     private static final String STU_TABLE = "create table "+STUDENT_TABLE +"(id int primary key,kata TEXT ,kanji TEXT ,masu_positif TEXT" +
@@ -54,8 +54,7 @@ public class DBHelper extends SQLiteOpenHelper {
                              String potensial_positif,String potensial_negatif,String ajakan_positif,
                              String ajakan_negatif,String perintah_positif,String perintah_negatif,String larangan_positif,
                              String larangan_negatif,String ba_positif,String ba_negatif,String pasif_positif, String pasif_negatif){
-        Log.d("insert", "before insert");
-
+        Log.d("insert", "before mantap gan");
         // 1. get reference to writable DB
         SQLiteDatabase db = this.getWritableDatabase();
 
@@ -79,12 +78,11 @@ public class DBHelper extends SQLiteOpenHelper {
         values.put("ba_positif", ba_positif);values.put("ba_negatif", ba_negatif);
         values.put("pasif_positif", pasif_positif);values.put("pasif_negatif", pasif_negatif);
 
-
-
         // 3. insert
         db.insert(STUDENT_TABLE, null, values);
         // 4. close
         db.close();
+        System.out.println("Gagal bae sih");
         Toast.makeText(context, "insert value", Toast.LENGTH_LONG);
         Log.i("insert into DB", "After insert");
     }

@@ -1,0 +1,3533 @@
+<konjugasi_data>
+  <konjugasi>
+    <id>1</id>
+    <kata>mencuci</kata>
+    <kanji>洗う</kanji>
+    <masu_positif>あらいます</masu_positif>
+    <masu_negatif>あらいません</masu_negatif>
+    <mashita_positif>あらいました</mashita_positif>
+    <mashita_negatif>あらいませんでした</mashita_negatif>
+    <te_positif>あらって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>あらいたい</tai_positif>
+    <tai_negatif>あらいたくない</tai_negatif>
+    <mashou_positif>あらいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>あらう</kamus_positif>
+    <kamus_negatif>あらわない</kamus_negatif>
+    <ta_positif>あらった</ta_positif>
+    <ta_negatif>あらわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>あらえます</potensial_positif>
+    <potensial_negatif>あらえません</potensial_negatif>
+    <ajakan_positif>あらおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>あらえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>あらうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>あらえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>あらわれます</pasif_positif>
+    <pasif_negatif>あらわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>2</id>
+    <kata>mempunyai;ada</kata>
+    <kanji>有る</kanji>
+    <masu_positif>あります</masu_positif>
+    <masu_negatif>ありません</masu_negatif>
+    <mashita_positif>ありました</mashita_positif>
+    <mashita_negatif>ありませんでした</mashita_negatif>
+    <te_positif>あって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>ありたい</tai_positif>
+    <tai_negatif>ありたくない</tai_negatif>
+    <mashou_positif>ありましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>ある</kamus_positif>
+    <kamus_negatif>ない</kamus_negatif>
+    <ta_positif>あった</ta_positif>
+    <ta_negatif>なかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>あれます</potensial_positif>
+    <potensial_negatif>あれません</potensial_negatif>
+    <ajakan_positif>あろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>あれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>あるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>あれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>あられます</pasif_positif>
+    <pasif_negatif>あれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>3</id>
+    <kata>bertemu;menemui</kata>
+    <kanji>会う</kanji>
+    <masu_positif>あいます</masu_positif>
+    <masu_negatif>あいません</masu_negatif>
+    <mashita_positif>あいました</mashita_positif>
+    <mashita_negatif>あいませんでした</mashita_negatif>
+    <te_positif>あって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>あいたい</tai_positif>
+    <tai_negatif>あいたくない</tai_negatif>
+    <mashou_positif>あいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>あう</kamus_positif>
+    <kamus_negatif>あわない</kamus_negatif>
+    <ta_positif>あった</ta_positif>
+    <ta_negatif>あわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>あえます</potensial_positif>
+    <potensial_negatif>あえません</potensial_negatif>
+    <ajakan_positif>あおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>あえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>あうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>あえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>あわれます</pasif_positif>
+    <pasif_negatif>あわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>4</id>
+    <kata>berjalan kaki</kata>
+    <kanji>歩く</kanji>
+    <masu_positif>あるきます</masu_positif>
+    <masu_negatif>あるきません</masu_negatif>
+    <mashita_positif>あるきました</mashita_positif>
+    <mashita_negatif>あるきませんでした</mashita_negatif>
+    <te_positif>あるいて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>あるきたい</tai_positif>
+    <tai_negatif>あるきたくない</tai_negatif>
+    <mashou_positif>あるきましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>あるく</kamus_positif>
+    <kamus_negatif>あるかない</kamus_negatif>
+    <ta_positif>あるいた</ta_positif>
+    <ta_negatif>あるかなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>あるけます</potensial_positif>
+    <potensial_negatif>あるけません</potensial_negatif>
+    <ajakan_positif>あるこう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>あるけ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>あるくな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>あるけば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>あるかれます</pasif_positif>
+    <pasif_negatif>あるかれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>5</id>
+    <kata>bermain-main</kata>
+    <kanji>遊ぶ</kanji>
+    <masu_positif>あそびます</masu_positif>
+    <masu_negatif>あそびません</masu_negatif>
+    <mashita_positif>あそびました</mashita_positif>
+    <mashita_negatif>あそびませんでした</mashita_negatif>
+    <te_positif>あそんで</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>あそびたい</tai_positif>
+    <tai_negatif>あそびたくない</tai_negatif>
+    <mashou_positif>あそびましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>あそぶ</kamus_positif>
+    <kamus_negatif>あそばない</kamus_negatif>
+    <ta_positif>あそんだ</ta_positif>
+    <ta_negatif>あそばなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>あそべます</potensial_positif>
+    <potensial_negatif>あそべません</potensial_negatif>
+    <ajakan_positif>あそぼう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>あそべ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>あそぶな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>あそべば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>あそばれます</pasif_positif>
+    <pasif_negatif>あそばれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>6</id>
+    <kata>berbeda;bukan;salah</kata>
+    <kanji>違う</kanji>
+    <masu_positif>ちがいます</masu_positif>
+    <masu_negatif>ちがいません</masu_negatif>
+    <mashita_positif>ちがいました</mashita_positif>
+    <mashita_negatif>ちがいませんでした</mashita_negatif>
+    <te_positif>ちがって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>ちがいたい</tai_positif>
+    <tai_negatif>ちがいたくない</tai_negatif>
+    <mashou_positif>ちがいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>ちがう</kamus_positif>
+    <kamus_negatif>ちがわない</kamus_negatif>
+    <ta_positif>ちがった</ta_positif>
+    <ta_negatif>ちがわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>ちがえます</potensial_positif>
+    <potensial_negatif>ちがえません</potensial_negatif>
+    <ajakan_positif>ちがおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>ちがえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>ちがうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>ちがえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>ちがわれます</pasif_positif>
+    <pasif_negatif>ちがわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>7</id>
+    <kata>mengirim(surat);mengeluarkan</kata>
+    <kanji>出す</kanji>
+    <masu_positif>だします</masu_positif>
+    <masu_negatif>だしません</masu_negatif>
+    <mashita_positif>だしました</mashita_positif>
+    <mashita_negatif>だしませんでした</mashita_negatif>
+    <te_positif>だして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>だしたい</tai_positif>
+    <tai_negatif>だしたくない</tai_negatif>
+    <mashou_positif>だしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>だす</kamus_positif>
+    <kamus_negatif>ださない</kamus_negatif>
+    <ta_positif>だした</ta_positif>
+    <ta_negatif>ださなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>だせます</potensial_positif>
+    <potensial_negatif>だせません</potensial_negatif>
+    <ajakan_positif>だそう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>だせ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>だすな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>だせば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>だされます</pasif_positif>
+    <pasif_negatif>だされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>8</id>
+    <kata>memilih</kata>
+    <kanji>選ぶ</kanji>
+    <masu_positif>えらびます</masu_positif>
+    <masu_negatif>えらびません</masu_negatif>
+    <mashita_positif>えらびました</mashita_positif>
+    <mashita_negatif>えらびませんでした</mashita_negatif>
+    <te_positif>えらんで</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>えらびたい</tai_positif>
+    <tai_negatif>えらびたくない</tai_negatif>
+    <mashou_positif>えらびましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>えらぶ</kamus_positif>
+    <kamus_negatif>えらばない</kamus_negatif>
+    <ta_positif>えらんだ</ta_positif>
+    <ta_negatif>えらばなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>えらべます</potensial_positif>
+    <potensial_negatif>えらべません</potensial_negatif>
+    <ajakan_positif>えらぼう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>えらべ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>えらぶな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>えらべば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>えらばれます</pasif_positif>
+    <pasif_negatif>えらばれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>9</id>
+    <kata>turun (hujan)</kata>
+    <kanji>降る</kanji>
+    <masu_positif>ふります</masu_positif>
+    <masu_negatif>ふりません</masu_negatif>
+    <mashita_positif>ふりました</mashita_positif>
+    <mashita_negatif>ふりませんでした</mashita_negatif>
+    <te_positif>ふって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>ふりたい</tai_positif>
+    <tai_negatif>ふりたくない</tai_negatif>
+    <mashou_positif>ふりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>ふる</kamus_positif>
+    <kamus_negatif>ふらない</kamus_negatif>
+    <ta_positif>ふった</ta_positif>
+    <ta_negatif>ふらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>ふれます</potensial_positif>
+    <potensial_negatif>ふれません</potensial_negatif>
+    <ajakan_positif>ふろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>ふれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>ふるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>ふれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>ふられます</pasif_positif>
+    <pasif_negatif>ふられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>10</id>
+    <kata>berusaha giat</kata>
+    <kanji>頑張る</kanji>
+    <masu_positif>がんばります</masu_positif>
+    <masu_negatif>がんばりません</masu_negatif>
+    <mashita_positif>がんばりました</mashita_positif>
+    <mashita_negatif>がんばりませんでした</mashita_negatif>
+    <te_positif>がんばって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>がんばりたい</tai_positif>
+    <tai_negatif>がんばりたくない</tai_negatif>
+    <mashou_positif>がんばりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>がんばる</kamus_positif>
+    <kamus_negatif> がんばらない</kamus_negatif>
+    <ta_positif> がんばった</ta_positif>
+    <ta_negatif> がんばらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>がんばれます</potensial_positif>
+    <potensial_negatif>がんばれません</potensial_negatif>
+    <ajakan_positif>がんばろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>がんばれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>がんばるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>がんばれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>がんばられます</pasif_positif>
+    <pasif_negatif>がんばられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>11</id>
+    <kata>membayar</kata>
+    <kanji>払う</kanji>
+    <masu_positif>はらいます</masu_positif>
+    <masu_negatif>はらいません</masu_negatif>
+    <mashita_positif>はらいました</mashita_positif>
+    <mashita_negatif>はらいませんでした</mashita_negatif>
+    <te_positif>はらって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>はらいたい</tai_positif>
+    <tai_negatif>はらいたくない</tai_negatif>
+    <mashou_positif>はらいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>はらう</kamus_positif>
+    <kamus_negatif> はらわない</kamus_negatif>
+    <ta_positif>はらった</ta_positif>
+    <ta_negatif> はらわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>はらえます</potensial_positif>
+    <potensial_negatif>はらえません</potensial_negatif>
+    <ajakan_positif>はらおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>はらえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>はらうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>はらえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> はらわれます</pasif_positif>
+    <pasif_negatif>はらわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>12</id>
+    <kata>memungut;mengambil</kata>
+    <kanji>拾う</kanji>
+    <masu_positif>ひろいます </masu_positif>
+    <masu_negatif>ひろいません</masu_negatif>
+    <mashita_positif>ひろいました</mashita_positif>
+    <mashita_negatif>ひろいませんでした</mashita_negatif>
+    <te_positif>ひろって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>ひろいたい</tai_positif>
+    <tai_negatif>ひろいたくない</tai_negatif>
+    <mashou_positif>ひろいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>ひろう</kamus_positif>
+    <kamus_negatif> ひろわない</kamus_negatif>
+    <ta_positif>ひろった</ta_positif>
+    <ta_negatif>ひろわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>ひろえます</potensial_positif>
+    <potensial_negatif>ひろえません</potensial_negatif>
+    <ajakan_positif>ひろおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>ひろえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>ひろうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>ひろえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>ひろわれます</pasif_positif>
+    <pasif_negatif>ひろわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>13</id>
+    <kata>masuk</kata>
+    <kanji>入る</kanji>
+    <masu_positif>はいります</masu_positif>
+    <masu_negatif>はいりません</masu_negatif>
+    <mashita_positif> はいりました</mashita_positif>
+    <mashita_negatif>はいりませんでした</mashita_negatif>
+    <te_positif>はいって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>はいりたい</tai_positif>
+    <tai_negatif>はいりたくない</tai_negatif>
+    <mashou_positif>はいりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>はいる</kamus_positif>
+    <kamus_negatif> はいらない</kamus_negatif>
+    <ta_positif>はいった</ta_positif>
+    <ta_negatif> はいらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>はいれます</potensial_positif>
+    <potensial_negatif>はいれません</potensial_negatif>
+    <ajakan_positif>はいろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>はいれば</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>はいるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>はいれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>はいられます</pasif_positif>
+    <pasif_negatif>はいられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>14</id>
+    <kata>berbicara</kata>
+    <kanji>話す</kanji>
+    <masu_positif>はなします </masu_positif>
+    <masu_negatif> はなしません</masu_negatif>
+    <mashita_positif>はなしました</mashita_positif>
+    <mashita_negatif>はなしませんでした</mashita_negatif>
+    <te_positif>はなして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>はなしたい</tai_positif>
+    <tai_negatif>はなしたくない</tai_negatif>
+    <mashou_positif>はなしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif> はなす</kamus_positif>
+    <kamus_negatif> はなさない</kamus_negatif>
+    <ta_positif>はなした</ta_positif>
+    <ta_negatif>はなさなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif> はなせます</potensial_positif>
+    <potensial_negatif>はなせません</potensial_negatif>
+    <ajakan_positif>はなそう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>はなせば</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif> はなすな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>はなせば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>はなされます</pasif_positif>
+    <pasif_negatif>はなされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>15</id>
+    <kata>bekerja </kata>
+    <kanji>働く</kanji>
+    <masu_positif>はたらきます</masu_positif>
+    <masu_negatif>はたりきません</masu_negatif>
+    <mashita_positif>はたらきました</mashita_positif>
+    <mashita_negatif>はたらきませんでした</mashita_negatif>
+    <te_positif>はたらいて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>はたらきたい</tai_positif>
+    <tai_negatif>はたらきたくない</tai_negatif>
+    <mashou_positif>はたらきましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>はたらく</kamus_positif>
+    <kamus_negatif> はたらかない</kamus_negatif>
+    <ta_positif>はたらいた</ta_positif>
+    <ta_negatif>はたらかなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>はたらけます</potensial_positif>
+    <potensial_negatif>はたらけません</potensial_negatif>
+    <ajakan_positif>はたらこう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>はたらけ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>はたらくな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>はたらけば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> はたらかれます</pasif_positif>
+    <pasif_negatif>はたらかれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>16</id>
+    <kata>bermain (alat musik)</kata>
+    <kanji>弾く</kanji>
+    <masu_positif>ひきます </masu_positif>
+    <masu_negatif>ひきません</masu_negatif>
+    <mashita_positif>ひきました</mashita_positif>
+    <mashita_negatif>ひきませんでした</mashita_negatif>
+    <te_positif>ひいて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>ひきたい</tai_positif>
+    <tai_negatif>ひきたくない</tai_negatif>
+    <mashou_positif>ひきましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>ひく</kamus_positif>
+    <kamus_negatif>ひかない</kamus_negatif>
+    <ta_positif>ひいた</ta_positif>
+    <ta_negatif> ひかなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>ひけます</potensial_positif>
+    <potensial_negatif>ひけません</potensial_negatif>
+    <ajakan_positif>ひこう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>ひけ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>ひくな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>ひけば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> ひかれます</pasif_positif>
+    <pasif_negatif>ひかれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>17</id>
+    <kata>berkata;berbicara</kata>
+    <kanji>言う</kanji>
+    <masu_positif>いいます</masu_positif>
+    <masu_negatif>いいません</masu_negatif>
+    <mashita_positif>いいました</mashita_positif>
+    <mashita_negatif> いいませんでした</mashita_negatif>
+    <te_positif>いって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>いいたい</tai_positif>
+    <tai_negatif>いいたくない　</tai_negatif>
+    <mashou_positif>いいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>いう</kamus_positif>
+    <kamus_negatif>いわない</kamus_negatif>
+    <ta_positif>いった</ta_positif>
+    <ta_negatif> いわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>いえます</potensial_positif>
+    <potensial_negatif>いえません</potensial_negatif>
+    <ajakan_positif>いおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>いえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>いうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif> いえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>いわれます</pasif_positif>
+    <pasif_negatif>いわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>18</id>
+    <kata>merayakan;mengucapkan</kata>
+    <kanji>祝う</kanji>
+    <masu_positif>いわいます</masu_positif>
+    <masu_negatif>いわいません</masu_negatif>
+    <mashita_positif>  いわいました</mashita_positif>
+    <mashita_negatif>いわいませんでした</mashita_negatif>
+    <te_positif>いわって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>いわいたい</tai_positif>
+    <tai_negatif>いわいたくない</tai_negatif>
+    <mashou_positif>いわいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>いわう</kamus_positif>
+    <kamus_negatif>いわわない</kamus_negatif>
+    <ta_positif>いわった</ta_positif>
+    <ta_negatif> いわわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>いわえます</potensial_positif>
+    <potensial_negatif> いわえません</potensial_negatif>
+    <ajakan_positif>いわえ</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>いわえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>いわうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>いわえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>いわわれます</pasif_positif>
+    <pasif_negatif>いわわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>19</id>
+    <kata>pergi</kata>
+    <kanji>行く</kanji>
+    <masu_positif>いきます</masu_positif>
+    <masu_negatif>いきません</masu_negatif>
+    <mashita_positif>いきました</mashita_positif>
+    <mashita_negatif>いきませんでした</mashita_negatif>
+    <te_positif>いって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>いきたい</tai_positif>
+    <tai_negatif>いきたくない</tai_negatif>
+    <mashou_positif>いきましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>いく</kamus_positif>
+    <kamus_negatif>いかない</kamus_negatif>
+    <ta_positif>いった</ta_positif>
+    <ta_negatif>いかなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>いけます</potensial_positif>
+    <potensial_negatif>いけません</potensial_negatif>
+    <ajakan_positif>いこう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>いけ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>いくな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>いけば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>いかれます</pasif_positif>
+    <pasif_negatif>いかれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>20</id>
+    <kata>lekas;cepat;terburu-buru</kata>
+    <kanji>急ぐ</kanji>
+    <masu_positif> いそぎます</masu_positif>
+    <masu_negatif>いそぎません</masu_negatif>
+    <mashita_positif> いそぎました</mashita_positif>
+    <mashita_negatif> いそぎませんでした</mashita_negatif>
+    <te_positif>いそいで</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>いそぎたい</tai_positif>
+    <tai_negatif>いそぎたくない</tai_negatif>
+    <mashou_positif>いそぎましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>いそぐ</kamus_positif>
+    <kamus_negatif> いそがない</kamus_negatif>
+    <ta_positif>いそいだ</ta_positif>
+    <ta_negatif> いそがなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>いそげます</potensial_positif>
+    <potensial_negatif>いそげません</potensial_negatif>
+    <ajakan_positif>いそごう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif> いそげ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>いそぐな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif> いそげば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> いそがれます</pasif_positif>
+    <pasif_negatif>いそがれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>21</id>
+    <kata>membeli;beli</kata>
+    <kanji>買う</kanji>
+    <masu_positif>かいます</masu_positif>
+    <masu_negatif> かいません</masu_negatif>
+    <mashita_positif> かいました</mashita_positif>
+    <mashita_negatif>  かいませんでした</mashita_negatif>
+    <te_positif>かって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>かいたい</tai_positif>
+    <tai_negatif>かいたくない</tai_negatif>
+    <mashou_positif>かいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>かう</kamus_positif>
+    <kamus_negatif> かわない</kamus_negatif>
+    <ta_positif>かった</ta_positif>
+    <ta_negatif> かわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>かえます</potensial_positif>
+    <potensial_negatif>かえません</potensial_negatif>
+    <ajakan_positif>かおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>かえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>かうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>かえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>かわれます</pasif_positif>
+    <pasif_negatif>かわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>22</id>
+    <kata>pulang</kata>
+    <kanji>帰る</kanji>
+    <masu_positif>かえります</masu_positif>
+    <masu_negatif>かえりません</masu_negatif>
+    <mashita_positif>かえりました</mashita_positif>
+    <mashita_negatif>かえりませんでした</mashita_negatif>
+    <te_positif>かえって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>かえりたい</tai_positif>
+    <tai_negatif>かえりたくない</tai_negatif>
+    <mashou_positif>かえりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>かえる</kamus_positif>
+    <kamus_negatif> かえらない</kamus_negatif>
+    <ta_positif>かえった</ta_positif>
+    <ta_negatif> かえらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>かえれます</potensial_positif>
+    <potensial_negatif>かえれません</potensial_negatif>
+    <ajakan_positif>かえろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>かえれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>かえるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>かえれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> かえられます</pasif_positif>
+    <pasif_negatif>かえられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>23</id>
+    <kata> mengembalikan</kata>
+    <kanji>返す</kanji>
+    <masu_positif>かえします</masu_positif>
+    <masu_negatif>かえしません</masu_negatif>
+    <mashita_positif>かえしました</mashita_positif>
+    <mashita_negatif> かえしませんでした</mashita_negatif>
+    <te_positif>かえして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>かえしたい</tai_positif>
+    <tai_negatif>かえしたくない</tai_negatif>
+    <mashou_positif>かえしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>かえす</kamus_positif>
+    <kamus_negatif> かえさない</kamus_negatif>
+    <ta_positif>かえした</ta_positif>
+    <ta_negatif>かえさなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>かえせます</potensial_positif>
+    <potensial_negatif>かえせません</potensial_negatif>
+    <ajakan_positif>かえそう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>かえせ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>かえすな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>かえせば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>かえされます</pasif_positif>
+    <pasif_negatif>かえされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>24</id>
+    <kata>menulis;menggambar</kata>
+    <kanji>書く</kanji>
+    <masu_positif>かきます</masu_positif>
+    <masu_negatif> かきません</masu_negatif>
+    <mashita_positif>かきました</mashita_positif>
+    <mashita_negatif>  かきませんでした</mashita_negatif>
+    <te_positif>かいて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>かきたい</tai_positif>
+    <tai_negatif>かきたくない</tai_negatif>
+    <mashou_positif>かきましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>かく</kamus_positif>
+    <kamus_negatif> かかない</kamus_negatif>
+    <ta_positif>かいた</ta_positif>
+    <ta_negatif> かかなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>かけます</potensial_positif>
+    <potensial_negatif>かけません</potensial_negatif>
+    <ajakan_positif>かこう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>かけ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>かくな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>かけば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> かかれます</pasif_positif>
+    <pasif_negatif>かかれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>25</id>
+    <kata>meminjamkan</kata>
+    <kanji>貸す</kanji>
+    <masu_positif>かします</masu_positif>
+    <masu_negatif> かしません</masu_negatif>
+    <mashita_positif>かしました</mashita_positif>
+    <mashita_negatif>  かしませんでした</mashita_negatif>
+    <te_positif>かして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>かしたい</tai_positif>
+    <tai_negatif>かしたくない</tai_negatif>
+    <mashou_positif>かしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>かす</kamus_positif>
+    <kamus_negatif> かさない</kamus_negatif>
+    <ta_positif>かした</ta_positif>
+    <ta_negatif> かさなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>かせます</potensial_positif>
+    <potensial_negatif>かせません</potensial_negatif>
+    <ajakan_positif>かそう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>かせ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>かすな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>かせば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>かされます</pasif_positif>
+    <pasif_negatif> かされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>26</id>
+    <kata>mematikan;memadamkan</kata>
+    <kanji>消す</kanji>
+    <masu_positif>けします</masu_positif>
+    <masu_negatif> けしません</masu_negatif>
+    <mashita_positif>けしました</mashita_positif>
+    <mashita_negatif>けしませんでした</mashita_negatif>
+    <te_positif>けして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>けしたい</tai_positif>
+    <tai_negatif>けしたくない</tai_negatif>
+    <mashou_positif>けしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>けす</kamus_positif>
+    <kamus_negatif> けさない</kamus_negatif>
+    <ta_positif>けした</ta_positif>
+    <ta_negatif> けさなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>けせます </potensial_positif>
+    <potensial_negatif> けせません</potensial_negatif>
+    <ajakan_positif>けそう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>けせ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>けすな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>けせば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>けされます</pasif_positif>
+    <pasif_negatif>けされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>27</id>
+    <kata>mendengar;bertanya</kata>
+    <kanji>聞く</kanji>
+    <masu_positif>ききます</masu_positif>
+    <masu_negatif> ききません</masu_negatif>
+    <mashita_positif>ききました</mashita_positif>
+    <mashita_negatif> ききませんでした</mashita_negatif>
+    <te_positif>きいて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>ききたい</tai_positif>
+    <tai_negatif>ききたくない</tai_negatif>
+    <mashou_positif>ききましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>きく</kamus_positif>
+    <kamus_negatif> きかない</kamus_negatif>
+    <ta_positif>きいた</ta_positif>
+    <ta_negatif> きかなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>きけます</potensial_positif>
+    <potensial_negatif> きけません</potensial_negatif>
+    <ajakan_positif>きこう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>きけ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>きくな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>きけば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>きかれます</pasif_positif>
+    <pasif_negatif>きかれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>28</id>
+    <kata> memotong</kata>
+    <kanji>切る</kanji>
+    <masu_positif>きります</masu_positif>
+    <masu_negatif>きりません</masu_negatif>
+    <mashita_positif>きりました</mashita_positif>
+    <mashita_negatif>きりませんでした</mashita_negatif>
+    <te_positif>きって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>きりたい</tai_positif>
+    <tai_negatif>きりたくない</tai_negatif>
+    <mashou_positif>きりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>きる</kamus_positif>
+    <kamus_negatif> きらない</kamus_negatif>
+    <ta_positif>きった</ta_positif>
+    <ta_negatif> きらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>きれます </potensial_positif>
+    <potensial_negatif>きれません</potensial_negatif>
+    <ajakan_positif>きろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>きれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>きるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>きれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> きられます</pasif_positif>
+    <pasif_negatif>きられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>29</id>
+    <kata>menerima</kata>
+    <kanji>貰う</kanji>
+    <masu_positif>もらいます</masu_positif>
+    <masu_negatif>もらいません</masu_negatif>
+    <mashita_positif>もらいました</mashita_positif>
+    <mashita_negatif> もらいませんでした</mashita_negatif>
+    <te_positif>もらって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>もらいたい</tai_positif>
+    <tai_negatif>もらいたくない</tai_negatif>
+    <mashou_positif>もらいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>もらう</kamus_positif>
+    <kamus_negatif> もらわない</kamus_negatif>
+    <ta_positif> もらった</ta_positif>
+    <ta_negatif> もらわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>もらえます</potensial_positif>
+    <potensial_negatif>もらえません</potensial_negatif>
+    <ajakan_positif>もらおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>もらえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>もらうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>もらえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>もらわれます</pasif_positif>
+    <pasif_negatif>もらわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>30</id>
+    <kata>menunggu</kata>
+    <kanji>待つ</kanji>
+    <masu_positif>まちます</masu_positif>
+    <masu_negatif> まちません</masu_negatif>
+    <mashita_positif>まちました</mashita_positif>
+    <mashita_negatif>  まちませんでした</mashita_negatif>
+    <te_positif>まって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>まちたい</tai_positif>
+    <tai_negatif>まちたくない</tai_negatif>
+    <mashou_positif>まちましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>まつ</kamus_positif>
+    <kamus_negatif>またない</kamus_negatif>
+    <ta_positif>まった</ta_positif>
+    <ta_negatif> またなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>まてます</potensial_positif>
+    <potensial_negatif>まてません</potensial_negatif>
+    <ajakan_positif> まとう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>まて</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>まつな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>まてば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> またれます</pasif_positif>
+    <pasif_negatif>またれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>31</id>
+    <kata>berbelok;menikung</kata>
+    <kanji>曲がる</kanji>
+    <masu_positif>まがります</masu_positif>
+    <masu_negatif>まがりません</masu_negatif>
+    <mashita_positif>まがりました</mashita_positif>
+    <mashita_negatif>  まがりませんでした</mashita_negatif>
+    <te_positif>まがって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>まがりたい</tai_positif>
+    <tai_negatif>まがりたくない</tai_negatif>
+    <mashou_positif>まがりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>まがる</kamus_positif>
+    <kamus_negatif>まがらない</kamus_negatif>
+    <ta_positif>まがった</ta_positif>
+    <ta_negatif> まがらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>まがれます</potensial_positif>
+    <potensial_negatif>まがれません</potensial_negatif>
+    <ajakan_positif>まがろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>まがれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>まがるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>まがれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>まがられます</pasif_positif>
+    <pasif_negatif>まがられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>32</id>
+    <kata>mempelajari;menuruti;mengikuti</kata>
+    <kanji>習う</kanji>
+    <masu_positif> ならいます</masu_positif>
+    <masu_negatif> ならいません</masu_negatif>
+    <mashita_positif>ならいました</mashita_positif>
+    <mashita_negatif>  ならいませんでした</mashita_negatif>
+    <te_positif>ならって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>ならいたい</tai_positif>
+    <tai_negatif>ならいたくない</tai_negatif>
+    <mashou_positif>ならいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>ならう</kamus_positif>
+    <kamus_negatif>ならわない</kamus_negatif>
+    <ta_positif>ならった</ta_positif>
+    <ta_negatif> ならわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>ならえます </potensial_positif>
+    <potensial_negatif>ならえません</potensial_negatif>
+    <ajakan_positif> ならおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>ならえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>ならうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>ならえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>ならわれます</pasif_positif>
+    <pasif_negatif>ならわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>33</id>
+    <kata>memohon;meminta;berharap</kata>
+    <kanji>願う</kanji>
+    <masu_positif>ねがいます</masu_positif>
+    <masu_negatif> ねがいません</masu_negatif>
+    <mashita_positif>ねがいました</mashita_positif>
+    <mashita_negatif>ねがいませんでした</mashita_negatif>
+    <te_positif>ねがって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>ねがいたい</tai_positif>
+    <tai_negatif>ねがいたくない</tai_negatif>
+    <mashou_positif>ねがいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>ねがう</kamus_positif>
+    <kamus_negatif>ねがわない</kamus_negatif>
+    <ta_positif>ねがった</ta_positif>
+    <ta_negatif> ねがわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>ねがえます</potensial_positif>
+    <potensial_negatif>ねがえません</potensial_negatif>
+    <ajakan_positif>ねがおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>ねがえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>ねがうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>ねがえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> ねがわれます</pasif_positif>
+    <pasif_negatif>ねがわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>34</id>
+    <kata>menghilangkan</kata>
+    <kanji>無くす</kanji>
+    <masu_positif>なくします</masu_positif>
+    <masu_negatif> なくしません</masu_negatif>
+    <mashita_positif> なくしました</mashita_positif>
+    <mashita_negatif>なくしませんでした</mashita_negatif>
+    <te_positif>なくして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>なくしたい</tai_positif>
+    <tai_negatif>なくしたくない</tai_negatif>
+    <mashou_positif>なくしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>なくす</kamus_positif>
+    <kamus_negatif>なくさない</kamus_negatif>
+    <ta_positif>なくした</ta_positif>
+    <ta_negatif>  なくさなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>なくせます</potensial_positif>
+    <potensial_negatif>なくせません</potensial_negatif>
+    <ajakan_positif>なくそう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>なくせ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>なくすな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>なくせば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>なくされます</pasif_positif>
+    <pasif_negatif> なくされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>35</id>
+    <kata>menjadi</kata>
+    <kanji>成る</kanji>
+    <masu_positif> なります</masu_positif>
+    <masu_negatif> なりません</masu_negatif>
+    <mashita_positif>なりました</mashita_positif>
+    <mashita_negatif>なりませんでした</mashita_negatif>
+    <te_positif>ならって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>なりたい</tai_positif>
+    <tai_negatif>なりたくない</tai_negatif>
+    <mashou_positif>なりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif> なる</kamus_positif>
+    <kamus_negatif> ならない</kamus_negatif>
+    <ta_positif>なった</ta_positif>
+    <ta_negatif>  ならなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>なれます</potensial_positif>
+    <potensial_negatif>なれません</potensial_negatif>
+    <ajakan_positif>なろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>ならえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif> なるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>ならえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>なられます</pasif_positif>
+    <pasif_negatif>なられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>36</id>
+    <kata>minum</kata>
+    <kanji>飲む</kanji>
+    <masu_positif>のみます</masu_positif>
+    <masu_negatif> のみません</masu_negatif>
+    <mashita_positif>のみました</mashita_positif>
+    <mashita_negatif> のみませんでした</mashita_negatif>
+    <te_positif>のんで</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>のみたい</tai_positif>
+    <tai_negatif>のみたくない</tai_negatif>
+    <mashou_positif>のみましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>のむ</kamus_positif>
+    <kamus_negatif> のまない</kamus_negatif>
+    <ta_positif>のんだ</ta_positif>
+    <ta_negatif>  のまなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>のめます</potensial_positif>
+    <potensial_negatif>のめません</potensial_negatif>
+    <ajakan_positif>のもう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>のめ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>のむな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>のめば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>のまれます</pasif_positif>
+    <pasif_negatif>のまれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>37</id>
+    <kata>naik</kata>
+    <kanji>乗る</kanji>
+    <masu_positif>のります</masu_positif>
+    <masu_negatif> のりません</masu_negatif>
+    <mashita_positif>のりました</mashita_positif>
+    <mashita_negatif>のりませんでした</mashita_negatif>
+    <te_positif>のって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>のりたい</tai_positif>
+    <tai_negatif>のりたくない</tai_negatif>
+    <mashou_positif>のりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>のる</kamus_positif>
+    <kamus_negatif> のらない</kamus_negatif>
+    <ta_positif>のった</ta_positif>
+    <ta_negatif>  のらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>のれます</potensial_positif>
+    <potensial_negatif>のれません</potensial_negatif>
+    <ajakan_positif>のろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>のれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>のるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>のれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> のられます</pasif_positif>
+    <pasif_negatif>のられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>38</id>
+    <kata>membuka;menaggalkan (pakaian)</kata>
+    <kanji>脱ぐ</kanji>
+    <masu_positif> ぬぎます</masu_positif>
+    <masu_negatif> ぬぎません</masu_negatif>
+    <mashita_positif> ぬぎました</mashita_positif>
+    <mashita_negatif>ぬぎませんでした</mashita_negatif>
+    <te_positif>ぬいで</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>ぬぎたい</tai_positif>
+    <tai_negatif>ぬぎたくない</tai_negatif>
+    <mashou_positif>ぬぎましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>ぬぐ</kamus_positif>
+    <kamus_negatif> ぬがない</kamus_negatif>
+    <ta_positif>ぬいだ</ta_positif>
+    <ta_negatif> ぬがなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>ぬげます</potensial_positif>
+    <potensial_negatif>ぬげません</potensial_negatif>
+    <ajakan_positif>ぬごう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>ぬげ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>ぬぐな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>ぬげば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>ぬがれます</pasif_positif>
+    <pasif_negatif>ぬがれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>39</id>
+    <kata>berpikir</kata>
+    <kanji>思う</kanji>
+    <masu_positif>おもいます</masu_positif>
+    <masu_negatif> おもいません</masu_negatif>
+    <mashita_positif>おもいました</mashita_positif>
+    <mashita_negatif> おもいませんでした</mashita_negatif>
+    <te_positif>おもって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>おもいたい</tai_positif>
+    <tai_negatif>おもいたくない</tai_negatif>
+    <mashou_positif>おもいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>おもう</kamus_positif>
+    <kamus_negatif> おもわない</kamus_negatif>
+    <ta_positif>おもった</ta_positif>
+    <ta_negatif> おもわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>おもえます</potensial_positif>
+    <potensial_negatif> おもえません</potensial_negatif>
+    <ajakan_positif>おもう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>おもえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>おもうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>おもえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>おもわれます</pasif_positif>
+    <pasif_negatif>おもわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>40</id>
+    <kata> meletakan</kata>
+    <kanji>置く</kanji>
+    <masu_positif>おきます</masu_positif>
+    <masu_negatif> おきません</masu_negatif>
+    <mashita_positif> おきました</mashita_positif>
+    <mashita_negatif>おきませんでした</mashita_negatif>
+    <te_positif>おいて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>おきたい</tai_positif>
+    <tai_negatif>おきたくない</tai_negatif>
+    <mashou_positif>おきましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>おく</kamus_positif>
+    <kamus_negatif> おかない</kamus_negatif>
+    <ta_positif>おいた</ta_positif>
+    <ta_negatif> おかなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>おけます</potensial_positif>
+    <potensial_negatif>おけません</potensial_negatif>
+    <ajakan_positif>おこう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>おけ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>おくな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>おけば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>おかれます</pasif_positif>
+    <pasif_negatif>おかれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>41</id>
+    <kata>mengirimkan;mengirimi</kata>
+    <kanji>送る</kanji>
+    <masu_positif>おくります</masu_positif>
+    <masu_negatif> おくりません</masu_negatif>
+    <mashita_positif> おくりました</mashita_positif>
+    <mashita_negatif>おくりませんでした</mashita_negatif>
+    <te_positif>おくって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>おくりたい</tai_positif>
+    <tai_negatif>おくりたくない</tai_negatif>
+    <mashou_positif>おくりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>おくる</kamus_positif>
+    <kamus_negatif> おくらない</kamus_negatif>
+    <ta_positif>おくった</ta_positif>
+    <ta_negatif> おくらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>おくれます</potensial_positif>
+    <potensial_negatif>おくれません</potensial_negatif>
+    <ajakan_positif>おくろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>おくれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>おくるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>おくれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>おくられます</pasif_positif>
+    <pasif_negatif>おくられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>42</id>
+    <kata>menekan;tekan</kata>
+    <kanji>押す</kanji>
+    <masu_positif>おします</masu_positif>
+    <masu_negatif> おしません</masu_negatif>
+    <mashita_positif>おしました</mashita_positif>
+    <mashita_negatif>おしませんでした</mashita_negatif>
+    <te_positif>おして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>おしたい</tai_positif>
+    <tai_negatif>おしたくない</tai_negatif>
+    <mashou_positif>おしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>おす</kamus_positif>
+    <kamus_negatif> おさない</kamus_negatif>
+    <ta_positif>おした</ta_positif>
+    <ta_negatif> おさなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>おせます </potensial_positif>
+    <potensial_negatif>おせません</potensial_negatif>
+    <ajakan_positif>おそう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>おせ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>おすな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>おせば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>おされます</pasif_positif>
+    <pasif_negatif>おされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>43</id>
+    <kata>mengakhiri;selesai</kata>
+    <kanji>終わる</kanji>
+    <masu_positif> おわります</masu_positif>
+    <masu_negatif> おわりません</masu_negatif>
+    <mashita_positif> おわりました</mashita_positif>
+    <mashita_negatif>おわりませんでした</mashita_negatif>
+    <te_positif>おわって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>おわりたい</tai_positif>
+    <tai_negatif>おわりたくない</tai_negatif>
+    <mashou_positif>おわりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>おわる</kamus_positif>
+    <kamus_negatif> おわらない</kamus_negatif>
+    <ta_positif>おわった</ta_positif>
+    <ta_negatif> おわらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>おわれます</potensial_positif>
+    <potensial_negatif>おわれません</potensial_negatif>
+    <ajakan_positif>おわろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>おわれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>おわるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>おわれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>おわられます</pasif_positif>
+    <pasif_negatif>おわられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>44</id>
+    <kata>berenang</kata>
+    <kanji>泳ぐ</kanji>
+    <masu_positif> およぎます</masu_positif>
+    <masu_negatif> およぎません</masu_negatif>
+    <mashita_positif>およぎました</mashita_positif>
+    <mashita_negatif>およぎませんでした</mashita_negatif>
+    <te_positif>およいで</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>およぎたい</tai_positif>
+    <tai_negatif>およぎたくない</tai_negatif>
+    <mashou_positif>およぎましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>およぐ</kamus_positif>
+    <kamus_negatif> およがない</kamus_negatif>
+    <ta_positif>およいだ</ta_positif>
+    <ta_negatif> およがなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>およげます</potensial_positif>
+    <potensial_negatif>およげません</potensial_negatif>
+    <ajakan_positif>およごう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>およげ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>およぐな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>およげば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>およがれます</pasif_positif>
+    <pasif_negatif>およがれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>45</id>
+    <kata>menyetuh;meraba</kata>
+    <kanji>触る</kanji>
+    <masu_positif> さわります</masu_positif>
+    <masu_negatif> さわりません</masu_negatif>
+    <mashita_positif>さわりました</mashita_positif>
+    <mashita_negatif>さわりませんでした</mashita_negatif>
+    <te_positif>さわって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>さわりたい</tai_positif>
+    <tai_negatif>さわりたくない</tai_negatif>
+    <mashou_positif>さわりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>さわる</kamus_positif>
+    <kamus_negatif> さわらない</kamus_negatif>
+    <ta_positif>さわった</ta_positif>
+    <ta_negatif> さわらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif> さわれます</potensial_positif>
+    <potensial_negatif>さわれません</potensial_negatif>
+    <ajakan_positif>さわろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>さわれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>さわるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>さわれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>さわられます</pasif_positif>
+    <pasif_negatif>さわられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>46</id>
+    <kata>mengetahui;tahu</kata>
+    <kanji>知る</kanji>
+    <masu_positif>しります</masu_positif>
+    <masu_negatif> しりません</masu_negatif>
+    <mashita_positif>しりました</mashita_positif>
+    <mashita_negatif>しりませんでした</mashita_negatif>
+    <te_positif>しって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>しりたい</tai_positif>
+    <tai_negatif>しりたくない</tai_negatif>
+    <mashou_positif>しりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>しる</kamus_positif>
+    <kamus_negatif> しらない</kamus_negatif>
+    <ta_positif>しった</ta_positif>
+    <ta_negatif> しらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>しれます </potensial_positif>
+    <potensial_negatif>しれません</potensial_negatif>
+    <ajakan_positif>しろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>しれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>しるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>しれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> しられます</pasif_positif>
+    <pasif_negatif>しられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>47</id>
+    <kata>menghisap (rokok)</kata>
+    <kanji>吸う</kanji>
+    <masu_positif>すいます</masu_positif>
+    <masu_negatif> すいません</masu_negatif>
+    <mashita_positif> すいました</mashita_positif>
+    <mashita_negatif>  すいませんでした</mashita_negatif>
+    <te_positif>すって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>すいたい</tai_positif>
+    <tai_negatif>すいたくない</tai_negatif>
+    <mashou_positif>すいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>すう</kamus_positif>
+    <kamus_negatif> すわない</kamus_negatif>
+    <ta_positif>すった</ta_positif>
+    <ta_negatif> すわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>すえます </potensial_positif>
+    <potensial_negatif>すえません</potensial_negatif>
+    <ajakan_positif>すおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>すえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>すうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>すえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>すわれます</pasif_positif>
+    <pasif_negatif>すわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>48</id>
+    <kata>duduk</kata>
+    <kanji>座る</kanji>
+    <masu_positif>すわります </masu_positif>
+    <masu_negatif>すわりません</masu_negatif>
+    <mashita_positif>すわりました</mashita_positif>
+    <mashita_negatif>すわりませんでした</mashita_negatif>
+    <te_positif>すわって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>すわりたい</tai_positif>
+    <tai_negatif>すわりたくない</tai_negatif>
+    <mashou_positif>すわりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>すわる</kamus_positif>
+    <kamus_negatif> すわらない</kamus_negatif>
+    <ta_positif>すわった</ta_positif>
+    <ta_negatif> すわらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>すわれます</potensial_positif>
+    <potensial_negatif> すわれません</potensial_negatif>
+    <ajakan_positif>すわろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>すわれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>すわるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>すわれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>すわられます</pasif_positif>
+    <pasif_negatif>すわられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>49</id>
+    <kata>tinggal;bertempat tinggal</kata>
+    <kanji>住む</kanji>
+    <masu_positif> すみます</masu_positif>
+    <masu_negatif> すみません</masu_negatif>
+    <mashita_positif>すみました</mashita_positif>
+    <mashita_negatif> すみませんでした</mashita_negatif>
+    <te_positif>すんで</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>すみたい</tai_positif>
+    <tai_negatif>すみたくない</tai_negatif>
+    <mashou_positif>すみましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>すむ</kamus_positif>
+    <kamus_negatif> すまない</kamus_negatif>
+    <ta_positif>すんだ</ta_positif>
+    <ta_negatif> すまなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>すめます </potensial_positif>
+    <potensial_negatif>すめません</potensial_negatif>
+    <ajakan_positif>すもう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>すめ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>すむな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>すめば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>すまれます</pasif_positif>
+    <pasif_negatif>すまれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>50</id>
+    <kata>membuat;membikin</kata>
+    <kanji>作る</kanji>
+    <masu_positif> つくります</masu_positif>
+    <masu_negatif>つくりません</masu_negatif>
+    <mashita_positif>つくりました</mashita_positif>
+    <mashita_negatif>つくりませんでした</mashita_negatif>
+    <te_positif>つくって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>つくりたい</tai_positif>
+    <tai_negatif>つくりたくない</tai_negatif>
+    <mashou_positif>つくりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>つくる</kamus_positif>
+    <kamus_negatif> つくらない</kamus_negatif>
+    <ta_positif>つくった</ta_positif>
+    <ta_negatif> つくらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>つくれます</potensial_positif>
+    <potensial_negatif>つくれません</potensial_negatif>
+    <ajakan_positif>つくろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>つくれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>つくるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>つくれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>つくられます</pasif_positif>
+    <pasif_negatif>つくられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>51</id>
+    <kata>menolong;membantu</kata>
+    <kanji>手伝う</kanji>
+    <masu_positif> てつだいます</masu_positif>
+    <masu_negatif>てつだいません</masu_negatif>
+    <mashita_positif>てつだいました</mashita_positif>
+    <mashita_negatif> てつだいませんでした</mashita_negatif>
+    <te_positif>てつだって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>てつだいたい</tai_positif>
+    <tai_negatif>てつだいたくない</tai_negatif>
+    <mashou_positif>てつだいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>てつだう</kamus_positif>
+    <kamus_negatif> てつだわない</kamus_negatif>
+    <ta_positif>てつだった</ta_positif>
+    <ta_negatif> てつだわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>てつだえます</potensial_positif>
+    <potensial_negatif>てつだえません</potensial_negatif>
+    <ajakan_positif>てつだおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>てつだえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>てつだうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>てつだえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>てつだわれます</pasif_positif>
+    <pasif_negatif>てつだわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>52</id>
+    <kata>memakai;mempergunakan</kata>
+    <kanji>使う</kanji>
+    <masu_positif> つかいます</masu_positif>
+    <masu_negatif> つかいません</masu_negatif>
+    <mashita_positif>つかいました</mashita_positif>
+    <mashita_negatif> つかいませんでした</mashita_negatif>
+    <te_positif>つかって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>つかいたい</tai_positif>
+    <tai_negatif>つかいたくない</tai_negatif>
+    <mashou_positif>つかいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>つかう</kamus_positif>
+    <kamus_negatif> つかわない</kamus_negatif>
+    <ta_positif>つかった</ta_positif>
+    <ta_negatif>つかわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>つかえます </potensial_positif>
+    <potensial_negatif> つかえません</potensial_negatif>
+    <ajakan_positif>つかおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>つかえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>つかうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>つかえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>つかわれます</pasif_positif>
+    <pasif_negatif>つかわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>53</id>
+    <kata>berdiri</kata>
+    <kanji>立つ</kanji>
+    <masu_positif>たちます</masu_positif>
+    <masu_negatif> たちません</masu_negatif>
+    <mashita_positif> たちました</mashita_positif>
+    <mashita_negatif>たちませんでした</mashita_negatif>
+    <te_positif>たって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>たちたい</tai_positif>
+    <tai_negatif>たちたくない</tai_negatif>
+    <mashou_positif>たちましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>たつ</kamus_positif>
+    <kamus_negatif> たたない</kamus_negatif>
+    <ta_positif> たった</ta_positif>
+    <ta_negatif>  たたなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>たてます</potensial_positif>
+    <potensial_negatif>たてません</potensial_negatif>
+    <ajakan_positif>たとう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>たて</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>たつな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>たてば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>たたれます</pasif_positif>
+    <pasif_negatif>たたれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>54</id>
+    <kata>berhenti;menginap;bermalam</kata>
+    <kanji>止まる</kanji>
+    <masu_positif>とまります</masu_positif>
+    <masu_negatif> とまりません</masu_negatif>
+    <mashita_positif> とまりました</mashita_positif>
+    <mashita_negatif>  とまりませんでした</mashita_negatif>
+    <te_positif>とまって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>とまりたい</tai_positif>
+    <tai_negatif>とまりたくない</tai_negatif>
+    <mashou_positif>とまりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>とまる</kamus_positif>
+    <kamus_negatif> とまらない</kamus_negatif>
+    <ta_positif>とまった</ta_positif>
+    <ta_negatif> とまらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>とまれます</potensial_positif>
+    <potensial_negatif>とまれません</potensial_negatif>
+    <ajakan_positif>ともろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>とまれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>とまるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>とまれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> とまられます</pasif_positif>
+    <pasif_negatif>とまられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>55</id>
+    <kata>mengambil</kata>
+    <kanji>取る</kanji>
+    <masu_positif> とります</masu_positif>
+    <masu_negatif> とりません</masu_negatif>
+    <mashita_positif>とりました</mashita_positif>
+    <mashita_negatif>とりませんでした</mashita_negatif>
+    <te_positif>とって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>とりたい</tai_positif>
+    <tai_negatif>とりたくない</tai_negatif>
+    <mashou_positif>とりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>とる</kamus_positif>
+    <kamus_negatif> とらない</kamus_negatif>
+    <ta_positif>とった</ta_positif>
+    <ta_negatif> とらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>とれます </potensial_positif>
+    <potensial_negatif> とれません</potensial_negatif>
+    <ajakan_positif>とろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>とれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>とるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>とれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>とられます</pasif_positif>
+    <pasif_negatif>とられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>56</id>
+    <kata>tiba;sampai</kata>
+    <kanji>着く</kanji>
+    <masu_positif>つきます</masu_positif>
+    <masu_negatif> つきません</masu_negatif>
+    <mashita_positif>つきました</mashita_positif>
+    <mashita_negatif>つきませんでした</mashita_negatif>
+    <te_positif>ついて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>つきたい</tai_positif>
+    <tai_negatif>つきたくない</tai_negatif>
+    <mashou_positif>つきましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>つく</kamus_positif>
+    <kamus_negatif> つかない</kamus_negatif>
+    <ta_positif>ついた</ta_positif>
+    <ta_negatif> つかなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>つけます </potensial_positif>
+    <potensial_negatif> つけません</potensial_negatif>
+    <ajakan_positif> つこう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>つけ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>つくな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>つけば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>つかれます</pasif_positif>
+    <pasif_negatif>つかれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>57</id>
+    <kata>bernyanyi</kata>
+    <kanji>歌う</kanji>
+    <masu_positif>うたいます</masu_positif>
+    <masu_negatif> うたいません</masu_negatif>
+    <mashita_positif>うたいました</mashita_positif>
+    <mashita_negatif>うたいませんでした</mashita_negatif>
+    <te_positif>うたって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>うたいたい</tai_positif>
+    <tai_negatif>うたいたくない</tai_negatif>
+    <mashou_positif>うたいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>うたう</kamus_positif>
+    <kamus_negatif> うたわない</kamus_negatif>
+    <ta_positif>うたった</ta_positif>
+    <ta_negatif> うたわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>うたえます</potensial_positif>
+    <potensial_negatif>うたえません</potensial_negatif>
+    <ajakan_positif>うたおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>うたえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>うたうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>うたえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> うたわれます</pasif_positif>
+    <pasif_negatif>うたわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>58</id>
+    <kata>bergerak;berjalan</kata>
+    <kanji>動く</kanji>
+    <masu_positif>うごきます</masu_positif>
+    <masu_negatif>うごきません</masu_negatif>
+    <mashita_positif>うごきました</mashita_positif>
+    <mashita_negatif>うごきませんでした</mashita_negatif>
+    <te_positif>うごいて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>うごきたい</tai_positif>
+    <tai_negatif>うごきたくない</tai_negatif>
+    <mashou_positif>うごきましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>うごく</kamus_positif>
+    <kamus_negatif> うごかない</kamus_negatif>
+    <ta_positif>うごいた</ta_positif>
+    <ta_negatif> うごかなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>うごけます</potensial_positif>
+    <potensial_negatif>うごけません</potensial_negatif>
+    <ajakan_positif>うごこう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>うごけ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>うごくな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>うごけば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>うごかれます</pasif_positif>
+    <pasif_negatif>うごかれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>59</id>
+    <kata>menjual</kata>
+    <kanji>売る</kanji>
+    <masu_positif>うります</masu_positif>
+    <masu_negatif> うりません</masu_negatif>
+    <mashita_positif>うりました</mashita_positif>
+    <mashita_negatif>うりませんでした</mashita_negatif>
+    <te_positif>うって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>うりたい</tai_positif>
+    <tai_negatif>うるたくない</tai_negatif>
+    <mashou_positif>うりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>うる</kamus_positif>
+    <kamus_negatif> うらない</kamus_negatif>
+    <ta_positif>うった</ta_positif>
+    <ta_negatif> うらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>うれます</potensial_positif>
+    <potensial_negatif> うれません</potensial_negatif>
+    <ajakan_positif>うろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>うれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>うるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>うれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>うられます</pasif_positif>
+    <pasif_negatif>うられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>60</id>
+    <kata>mengerti;paham</kata>
+    <kanji>分かる</kanji>
+    <masu_positif>わかります</masu_positif>
+    <masu_negatif> わかりません</masu_negatif>
+    <mashita_positif>わかりました</mashita_positif>
+    <mashita_negatif>  わかりませんでした</mashita_negatif>
+    <te_positif>わかって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>わかりたい</tai_positif>
+    <tai_negatif>わかりたくない</tai_negatif>
+    <mashou_positif>わかりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>わかる</kamus_positif>
+    <kamus_negatif> わかない</kamus_negatif>
+    <ta_positif>わかった</ta_positif>
+    <ta_negatif> わからなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>わかれます</potensial_positif>
+    <potensial_negatif> わかれません</potensial_negatif>
+    <ajakan_positif> わかろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>わかれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>わかるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>わかれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>わかられます</pasif_positif>
+    <pasif_negatif>わかられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>61</id>
+    <kata>tertawa</kata>
+    <kanji>笑う</kanji>
+    <masu_positif>わらいます</masu_positif>
+    <masu_negatif> わらいません</masu_negatif>
+    <mashita_positif>わらいました</mashita_positif>
+    <mashita_negatif>われいませんでした</mashita_negatif>
+    <te_positif>わらって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>わらいたい</tai_positif>
+    <tai_negatif>わらいたくない</tai_negatif>
+    <mashou_positif>わらいましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>わらう</kamus_positif>
+    <kamus_negatif> わらわない</kamus_negatif>
+    <ta_positif> わらった</ta_positif>
+    <ta_negatif> わらわなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>わらえます </potensial_positif>
+    <potensial_negatif>わらえません</potensial_negatif>
+    <ajakan_positif>わらおう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>わらえ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>わらうな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>わらえば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> わらわれます</pasif_positif>
+    <pasif_negatif>わらわれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>62</id>
+    <kata>menyeberangi</kata>
+    <kanji>渡る</kanji>
+    <masu_positif>わたります</masu_positif>
+    <masu_negatif> わたりません</masu_negatif>
+    <mashita_positif> わたりました</mashita_positif>
+    <mashita_negatif>わたりませんでした</mashita_negatif>
+    <te_positif>わたって</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>わたりたい</tai_positif>
+    <tai_negatif>わたりたくない</tai_negatif>
+    <mashou_positif>わたりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif> わたる</kamus_positif>
+    <kamus_negatif> わたらない</kamus_negatif>
+    <ta_positif>わたった</ta_positif>
+    <ta_negatif> わたらなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>わたれます</potensial_positif>
+    <potensial_negatif>わたれません</potensial_negatif>
+    <ajakan_positif>わたろう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>わたれ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif> わたるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>わたれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>わたられます</pasif_positif>
+    <pasif_negatif>わたられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>63</id>
+    <kata>panggil;memanggil </kata>
+    <kanji>呼ぶ</kanji>
+    <masu_positif> よびます</masu_positif>
+    <masu_negatif> よびません</masu_negatif>
+    <mashita_positif>よびました</mashita_positif>
+    <mashita_negatif>よびませんでした</mashita_negatif>
+    <te_positif>よんで</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>よびたい</tai_positif>
+    <tai_negatif>よびたくない</tai_negatif>
+    <mashou_positif>よびましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>よぶ</kamus_positif>
+    <kamus_negatif> よばない</kamus_negatif>
+    <ta_positif> よんだ</ta_positif>
+    <ta_negatif> よばなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>よべます </potensial_positif>
+    <potensial_negatif>よべません</potensial_negatif>
+    <ajakan_positif>よぼう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>よべ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>よぶな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>よべば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>よばれます</pasif_positif>
+    <pasif_negatif>よばれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>64</id>
+    <kata>membaca</kata>
+    <kanji>読む</kanji>
+    <masu_positif> よみます</masu_positif>
+    <masu_negatif> よみません</masu_negatif>
+    <mashita_positif>よみました</mashita_positif>
+    <mashita_negatif>よみませんでした</mashita_negatif>
+    <te_positif>よんで</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>よみたい</tai_positif>
+    <tai_negatif>よみたくない</tai_negatif>
+    <mashou_positif>よみましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>よむ</kamus_positif>
+    <kamus_negatif> よまない</kamus_negatif>
+    <ta_positif>よんだ</ta_positif>
+    <ta_negatif> よまなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>よめます</potensial_positif>
+    <potensial_negatif> よめません</potensial_negatif>
+    <ajakan_positif>よもう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>よめ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>よむな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>よめば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>よまれます</pasif_positif>
+    <pasif_negatif>よまれません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>65</id>
+    <kata>mandi</kata>
+    <kanji>浴びる</kanji>
+    <masu_positif>あびます</masu_positif>
+    <masu_negatif> あびません</masu_negatif>
+    <mashita_positif>あびました</mashita_positif>
+    <mashita_negatif>あびませんでした</mashita_negatif>
+    <te_positif>あびて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>あびたい</tai_positif>
+    <tai_negatif>あびたくない</tai_negatif>
+    <mashou_positif>あびましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>あびる</kamus_positif>
+    <kamus_negatif> あびない</kamus_negatif>
+    <ta_positif>あびた</ta_positif>
+    <ta_negatif>  あびなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>あびれます</potensial_positif>
+    <potensial_negatif>あびれません</potensial_negatif>
+    <ajakan_positif>あびよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>あびろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>あびるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>あびれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>あびられます</pasif_positif>
+    <pasif_negatif>あびられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>66</id>
+    <kata>memberikan</kata>
+    <kanji>上げる</kanji>
+    <masu_positif>あげます</masu_positif>
+    <masu_negatif> あげません</masu_negatif>
+    <mashita_positif>あげました</mashita_positif>
+    <mashita_negatif>あげませんでした</mashita_negatif>
+    <te_positif>あげて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>あげたい</tai_positif>
+    <tai_negatif>あげたくない</tai_negatif>
+    <mashou_positif>あげましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>あげる</kamus_positif>
+    <kamus_negatif> あげない</kamus_negatif>
+    <ta_positif>あげた</ta_positif>
+    <ta_negatif>あげなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>あげれます </potensial_positif>
+    <potensial_negatif>あげれません</potensial_negatif>
+    <ajakan_positif>あげよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>あげろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>あげるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>あげれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> あげられます</pasif_positif>
+    <pasif_negatif>あげられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>67</id>
+    <kata>membuka</kata>
+    <kanji>開ける</kanji>
+    <masu_positif> あけます</masu_positif>
+    <masu_negatif> あけません</masu_negatif>
+    <mashita_positif> あけました</mashita_positif>
+    <mashita_negatif>あけませんでした</mashita_negatif>
+    <te_positif>あけて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>あけたい</tai_positif>
+    <tai_negatif>あけたくない</tai_negatif>
+    <mashou_positif>あけましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>あける</kamus_positif>
+    <kamus_negatif> あけない</kamus_negatif>
+    <ta_positif>あけた</ta_positif>
+    <ta_negatif> あけなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>あけれます</potensial_positif>
+    <potensial_negatif>あけれません</potensial_negatif>
+    <ajakan_positif>あけよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>あけろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>あけるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>あければ</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>あけられます</pasif_positif>
+    <pasif_negatif>あけられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>68</id>
+    <kata>mengumpulkan</kata>
+    <kanji>集める</kanji>
+    <masu_positif> あつまります</masu_positif>
+    <masu_negatif> あつまりません</masu_negatif>
+    <mashita_positif>あつまりました</mashita_positif>
+    <mashita_negatif>あつまりませんでした</mashita_negatif>
+    <te_positif>あつめて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>あつまりたい</tai_positif>
+    <tai_negatif>あつまりたくない</tai_negatif>
+    <mashou_positif>あつまりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>あつめる</kamus_positif>
+    <kamus_negatif> あつめない</kamus_negatif>
+    <ta_positif>あつめた</ta_positif>
+    <ta_negatif>あつめなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>あつめれます</potensial_positif>
+    <potensial_negatif>あつめれません</potensial_negatif>
+    <ajakan_positif>あつめよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>あつめろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>あつめるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>あつめば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>あつめられます</pasif_positif>
+    <pasif_negatif>あつめられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>69</id>
+    <kata>keluar</kata>
+    <kanji>出る</kanji>
+    <masu_positif> でます</masu_positif>
+    <masu_negatif> でません</masu_negatif>
+    <mashita_positif>でました</mashita_positif>
+    <mashita_negatif>でませんでした</mashita_negatif>
+    <te_positif>でて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>でたい</tai_positif>
+    <tai_negatif>でたくない</tai_negatif>
+    <mashou_positif>でましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>でる</kamus_positif>
+    <kamus_negatif> でない</kamus_negatif>
+    <ta_positif>でた</ta_positif>
+    <ta_negatif> でなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>でれます</potensial_positif>
+    <potensial_negatif>でれません</potensial_negatif>
+    <ajakan_positif>でよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>でろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>でるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>でれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>でられます </pasif_positif>
+    <pasif_negatif>でられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>70</id>
+    <kata>pergi;berangkat</kata>
+    <kanji>出かける</kanji>
+    <masu_positif>でかけます</masu_positif>
+    <masu_negatif> でかけません</masu_negatif>
+    <mashita_positif>でかけました</mashita_positif>
+    <mashita_negatif>でかけませんでした</mashita_negatif>
+    <te_positif>でかけて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>でかけたい</tai_positif>
+    <tai_negatif>でかけたくない</tai_negatif>
+    <mashou_positif>でかけましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>でかける</kamus_positif>
+    <kamus_negatif>でかけない</kamus_negatif>
+    <ta_positif>でかけた</ta_positif>
+    <ta_negatif>でかけなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>でかけれます </potensial_positif>
+    <potensial_negatif>でかけれません</potensial_negatif>
+    <ajakan_positif>でかけよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>でかけろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>でかけるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>でかければ</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>でかけられます</pasif_positif>
+    <pasif_negatif>でかけられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>71</id>
+    <kata>dapat;bisa</kata>
+    <kanji>出来る</kanji>
+    <masu_positif>できます</masu_positif>
+    <masu_negatif>できません</masu_negatif>
+    <mashita_positif>できました</mashita_positif>
+    <mashita_negatif>できませんでした</mashita_negatif>
+    <te_positif>できて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>できたい</tai_positif>
+    <tai_negatif>できたくない</tai_negatif>
+    <mashou_positif>できましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>できる</kamus_positif>
+    <kamus_negatif> できない</kamus_negatif>
+    <ta_positif>できた</ta_positif>
+    <ta_negatif>できなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>でられます</potensial_positif>
+    <potensial_negatif>でられません</potensial_negatif>
+    <ajakan_positif>できよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>できろ </perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>できるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>できれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>できられます</pasif_positif>
+    <pasif_negatif>できられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>72</id>
+    <kata>memulai</kata>
+    <kanji>始める</kanji>
+    <masu_positif>はじめます</masu_positif>
+    <masu_negatif> はじめません</masu_negatif>
+    <mashita_positif>はじめました</mashita_positif>
+    <mashita_negatif>  はじめませんでした</mashita_negatif>
+    <te_positif>はじめて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>はじめたい</tai_positif>
+    <tai_negatif>はじめたくない</tai_negatif>
+    <mashou_positif>はじめましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>はじめる</kamus_positif>
+    <kamus_negatif> はじめない</kamus_negatif>
+    <ta_positif>はじめた</ta_positif>
+    <ta_negatif> はじめなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>はじめれます</potensial_positif>
+    <potensial_negatif>はじめれません</potensial_negatif>
+    <ajakan_positif>はじめよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>はじめろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>はじめるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>はじめれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> はじめられます</pasif_positif>
+    <pasif_negatif>はじめられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>73</id>
+    <kata>memasukkan</kata>
+    <kanji>入れる</kanji>
+    <masu_positif>いれます</masu_positif>
+    <masu_negatif> いれません</masu_negatif>
+    <mashita_positif> いれました</mashita_positif>
+    <mashita_negatif>いれませんでした</mashita_negatif>
+    <te_positif>いれて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>いれたい</tai_positif>
+    <tai_negatif>いれたくない</tai_negatif>
+    <mashou_positif>いれましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>いれる</kamus_positif>
+    <kamus_negatif> いれない</kamus_negatif>
+    <ta_positif>いれた</ta_positif>
+    <ta_negatif> いれなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>いれれます</potensial_positif>
+    <potensial_negatif> いれれません</potensial_negatif>
+    <ajakan_positif>いれよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>いれろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>いれるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>いれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>いれられます</pasif_positif>
+    <pasif_negatif>いれられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>74</id>
+    <kata>memikirkan</kata>
+    <kanji>考える</kanji>
+    <masu_positif> かんがえます</masu_positif>
+    <masu_negatif> かんがえません</masu_negatif>
+    <mashita_positif>かんがえました</mashita_positif>
+    <mashita_negatif>かんがえませんでした</mashita_negatif>
+    <te_positif>かんがえて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>かんがえたい</tai_positif>
+    <tai_negatif>かんがえたくない</tai_negatif>
+    <mashou_positif>かんがえましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>かんがえる</kamus_positif>
+    <kamus_negatif>かんがえない</kamus_negatif>
+    <ta_positif>かんがえた</ta_positif>
+    <ta_negatif>かんがえなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>かんがえれます </potensial_positif>
+    <potensial_negatif> かんがえれません</potensial_negatif>
+    <ajakan_positif>かんがえよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>かんがえろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>かんがえるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>かんがえれば </ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>かんがえられます</pasif_positif>
+    <pasif_negatif>かんがえられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>75</id>
+    <kata>memakai;mengenakan (pakaian)　</kata>
+    <kanji>着る</kanji>
+    <masu_positif> きます</masu_positif>
+    <masu_negatif> きません</masu_negatif>
+    <mashita_positif>きました</mashita_positif>
+    <mashita_negatif> きませんでした</mashita_negatif>
+    <te_positif>きて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>きたい</tai_positif>
+    <tai_negatif>きたくない</tai_negatif>
+    <mashou_positif>きましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>きる</kamus_positif>
+    <kamus_negatif>きない</kamus_negatif>
+    <ta_positif>きた</ta_positif>
+    <ta_negatif>きなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>きれます </potensial_positif>
+    <potensial_negatif>きれません</potensial_negatif>
+    <ajakan_positif>きよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>きろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>きるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>きれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> きられます</pasif_positif>
+    <pasif_negatif>きられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>76</id>
+    <kata>mati;padam</kata>
+    <kanji>消える</kanji>
+    <masu_positif>きえます</masu_positif>
+    <masu_negatif> きえません</masu_negatif>
+    <mashita_positif>きえました</mashita_positif>
+    <mashita_negatif>きえませんでした</mashita_negatif>
+    <te_positif>きえて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>きえたい</tai_positif>
+    <tai_negatif>きえたくない</tai_negatif>
+    <mashou_positif>きえましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>きえる</kamus_positif>
+    <kamus_negatif> きえない</kamus_negatif>
+    <ta_positif>きえた</ta_positif>
+    <ta_negatif>きえなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>きえれます </potensial_positif>
+    <potensial_negatif> きえれません</potensial_negatif>
+    <ajakan_positif>きえよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>きえろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>きえるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>きえれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>きえられます</pasif_positif>
+    <pasif_negatif>きえられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>77</id>
+    <kata>terdengar;kedengaran</kata>
+    <kanji>聞こえる</kanji>
+    <masu_positif>きこえます</masu_positif>
+    <masu_negatif> きこえません</masu_negatif>
+    <mashita_positif>きこえました</mashita_positif>
+    <mashita_negatif>きこえませんでした</mashita_negatif>
+    <te_positif>きこえて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>きこえたい</tai_positif>
+    <tai_negatif>きこえたくない</tai_negatif>
+    <mashou_positif>きこえましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>きこえる</kamus_positif>
+    <kamus_negatif> きこえない</kamus_negatif>
+    <ta_positif>きこえた</ta_positif>
+    <ta_negatif>きこえなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>きこえれます</potensial_positif>
+    <potensial_negatif>きこえれません</potensial_negatif>
+    <ajakan_positif> きこえよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>きこえろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>きこえるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>きこえれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>きこえられます</pasif_positif>
+    <pasif_negatif>きこえられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>78</id>
+    <kata>meminjam;menyewa</kata>
+    <kanji>借りる</kanji>
+    <masu_positif>かります</masu_positif>
+    <masu_negatif> かりません</masu_negatif>
+    <mashita_positif>かりました</mashita_positif>
+    <mashita_negatif>かりませんでした</mashita_negatif>
+    <te_positif>かりて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>かりたい</tai_positif>
+    <tai_negatif>かりたくない</tai_negatif>
+    <mashou_positif>かりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>かりる</kamus_positif>
+    <kamus_negatif> かりない</kamus_negatif>
+    <ta_positif>かりた</ta_positif>
+    <ta_negatif>かりなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>かりれます</potensial_positif>
+    <potensial_negatif>かりれません</potensial_negatif>
+    <ajakan_positif>かりよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>かりろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>かりるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>かりれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>かりられます</pasif_positif>
+    <pasif_negatif>かりられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>79</id>
+    <kata>melihat</kata>
+    <kanji>見る</kanji>
+    <masu_positif>みます</masu_positif>
+    <masu_negatif> みません</masu_negatif>
+    <mashita_positif> みました</mashita_positif>
+    <mashita_negatif> みませんでした</mashita_negatif>
+    <te_positif>みて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>みたい</tai_positif>
+    <tai_negatif>みたくない</tai_negatif>
+    <mashou_positif>みましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>みる</kamus_positif>
+    <kamus_negatif> みない</kamus_negatif>
+    <ta_positif>みた</ta_positif>
+    <ta_negatif>みなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>みれます</potensial_positif>
+    <potensial_negatif> みれません</potensial_negatif>
+    <ajakan_positif>みよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>みろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>みるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>みれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>みられます</pasif_positif>
+    <pasif_negatif>みられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>80</id>
+    <kata>memperlihatkan</kata>
+    <kanji>見せる</kanji>
+    <masu_positif> みせます</masu_positif>
+    <masu_negatif> みせません</masu_negatif>
+    <mashita_positif>みせました</mashita_positif>
+    <mashita_negatif> みせませんでした</mashita_negatif>
+    <te_positif>みせて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>みせたい</tai_positif>
+    <tai_negatif>みせたくない</tai_negatif>
+    <mashou_positif>みせましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>みせる</kamus_positif>
+    <kamus_negatif> みせない</kamus_negatif>
+    <ta_positif>みせた</ta_positif>
+    <ta_negatif>みせなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>みせれます</potensial_positif>
+    <potensial_negatif>みせれません</potensial_negatif>
+    <ajakan_positif> みせよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>みせろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>みせるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>みせれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>みせられます</pasif_positif>
+    <pasif_negatif>みせられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>81</id>
+    <kata>tidur</kata>
+    <kanji>寝る</kanji>
+    <masu_positif>ねます</masu_positif>
+    <masu_negatif> ねません</masu_negatif>
+    <mashita_positif>ねました</mashita_positif>
+    <mashita_negatif>  ねませんでした</mashita_negatif>
+    <te_positif>ねて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>ねたい</tai_positif>
+    <tai_negatif>ねたくない</tai_negatif>
+    <mashou_positif>ねましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>ねる</kamus_positif>
+    <kamus_negatif>ねない</kamus_negatif>
+    <ta_positif>ねた</ta_positif>
+    <ta_negatif>ねなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>ねれます</potensial_positif>
+    <potensial_negatif>ねれません</potensial_negatif>
+    <ajakan_positif>ねよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>ねろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>ねるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>ねれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>ねられます</pasif_positif>
+    <pasif_negatif>ねられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>82</id>
+    <kata>menghafal;ingat</kata>
+    <kanji>覚える</kanji>
+    <masu_positif>おぼえます</masu_positif>
+    <masu_negatif> おぼえません</masu_negatif>
+    <mashita_positif>おぼえました</mashita_positif>
+    <mashita_negatif>  おぼえませんでした</mashita_negatif>
+    <te_positif>おぼえて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>おぼえたい</tai_positif>
+    <tai_negatif>おぼえたくない</tai_negatif>
+    <mashou_positif>おぼえましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>おぼえる</kamus_positif>
+    <kamus_negatif>おぼえない</kamus_negatif>
+    <ta_positif>おぼえた</ta_positif>
+    <ta_negatif>おぼえなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>おぼえれます</potensial_positif>
+    <potensial_negatif>おぼえれません</potensial_negatif>
+    <ajakan_positif> おぼえよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>おぼえろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>おぼえるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>おぼえれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>おぼえられます</pasif_positif>
+    <pasif_negatif>おぼえられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>83</id>
+    <kata>bangun tidur</kata>
+    <kanji>起きる</kanji>
+    <masu_positif>おきます </masu_positif>
+    <masu_negatif> おきません</masu_negatif>
+    <mashita_positif>おきました</mashita_positif>
+    <mashita_negatif>おきませんでした</mashita_negatif>
+    <te_positif>おきて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>おきたい</tai_positif>
+    <tai_negatif>おきたくない</tai_negatif>
+    <mashou_positif>おきましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>おきる</kamus_positif>
+    <kamus_negatif>おきない</kamus_negatif>
+    <ta_positif>おきた</ta_positif>
+    <ta_negatif>おきなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>おきれます</potensial_positif>
+    <potensial_negatif>おきれません</potensial_negatif>
+    <ajakan_positif>おきよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>おきろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>おきるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>おきれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>おきられます</pasif_positif>
+    <pasif_negatif>おきられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>84</id>
+    <kata>turun (kereta,gunung,bis)</kata>
+    <kanji>降りる</kanji>
+    <masu_positif>おります</masu_positif>
+    <masu_negatif> おりません</masu_negatif>
+    <mashita_positif>おりました</mashita_positif>
+    <mashita_negatif>おりませんでした</mashita_negatif>
+    <te_positif>おりて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>おりたい</tai_positif>
+    <tai_negatif>おりたくない</tai_negatif>
+    <mashou_positif>おりましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>おりる</kamus_positif>
+    <kamus_negatif> おりない</kamus_negatif>
+    <ta_positif>おりた</ta_positif>
+    <ta_negatif> おりなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>おりれます</potensial_positif>
+    <potensial_negatif> おりれません</potensial_negatif>
+    <ajakan_positif>おりよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>おりろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>おりるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>おりれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>おりられます</pasif_positif>
+    <pasif_negatif>おりられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>85</id>
+    <kata>mengajar; memberitahukan</kata>
+    <kanji>教える</kanji>
+    <masu_positif>おしえます</masu_positif>
+    <masu_negatif> おしえません</masu_negatif>
+    <mashita_positif>おしえました</mashita_positif>
+    <mashita_negatif>おしえませんでした</mashita_negatif>
+    <te_positif>おしえて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>おしえたい</tai_positif>
+    <tai_negatif>おしえたくない</tai_negatif>
+    <mashou_positif>おしえましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>おしえる</kamus_positif>
+    <kamus_negatif> おしえない</kamus_negatif>
+    <ta_positif>おしえた</ta_positif>
+    <ta_negatif> おしえなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>おしえれます </potensial_positif>
+    <potensial_negatif>おしえれません</potensial_negatif>
+    <ajakan_positif>おしえよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>おしえろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>おしえるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif> おしえれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>おしえられます</pasif_positif>
+    <pasif_negatif>おしえられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>86</id>
+    <kata>menutup</kata>
+    <kanji>閉める</kanji>
+    <masu_positif>しめます</masu_positif>
+    <masu_negatif> しめません</masu_negatif>
+    <mashita_positif>しめました</mashita_positif>
+    <mashita_negatif>  しめませんでした</mashita_negatif>
+    <te_positif>しめて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>しめたい</tai_positif>
+    <tai_negatif>しめたくない</tai_negatif>
+    <mashou_positif>しめましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>しめる</kamus_positif>
+    <kamus_negatif> しめない</kamus_negatif>
+    <ta_positif>しめた</ta_positif>
+    <ta_negatif>  しめなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>しめれます</potensial_positif>
+    <potensial_negatif>しめれません</potensial_negatif>
+    <ajakan_positif>しめよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>しめろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>しめるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>しめれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> しめられます</pasif_positif>
+    <pasif_negatif>しめられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>87</id>
+    <kata>makan</kata>
+    <kanji>食べる</kanji>
+    <masu_positif> たべます</masu_positif>
+    <masu_negatif> たべません</masu_negatif>
+    <mashita_positif>たべました</mashita_positif>
+    <mashita_negatif> たべませんでした</mashita_negatif>
+    <te_positif>たべて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>たべたい</tai_positif>
+    <tai_negatif>たべたくない</tai_negatif>
+    <mashou_positif>たべましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>たべる</kamus_positif>
+    <kamus_negatif> たべない</kamus_negatif>
+    <ta_positif>たべた</ta_positif>
+    <ta_negatif>  たべなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif> たべれます</potensial_positif>
+    <potensial_negatif>たべれません</potensial_negatif>
+    <ajakan_positif>たべよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>たべろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>たべるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>たべれば </ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>たべられます</pasif_positif>
+    <pasif_negatif>たべられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>88</id>
+    <kata>menghentikan</kata>
+    <kanji>止める</kanji>
+    <masu_positif> とめます</masu_positif>
+    <masu_negatif> とめません</masu_negatif>
+    <mashita_positif>とめました</mashita_positif>
+    <mashita_negatif> とめませんでした</mashita_negatif>
+    <te_positif>とめて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>とめたい</tai_positif>
+    <tai_negatif>とめたくない</tai_negatif>
+    <mashou_positif>とめましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>とめる</kamus_positif>
+    <kamus_negatif> とめない</kamus_negatif>
+    <ta_positif>とめた</ta_positif>
+    <ta_negatif> とめなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>とめれます </potensial_positif>
+    <potensial_negatif>とめれません</potensial_negatif>
+    <ajakan_positif>とめよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>とめろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>とめるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>とめれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif> とめられます</pasif_positif>
+    <pasif_negatif>とめられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>89</id>
+    <kata>capek;lelah;letih</kata>
+    <kanji>疲れる</kanji>
+    <masu_positif> つかれます</masu_positif>
+    <masu_negatif> つかれません</masu_negatif>
+    <mashita_positif>つかれました</mashita_positif>
+    <mashita_negatif>  つかれませんでした</mashita_negatif>
+    <te_positif>つかれて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>つかれたい</tai_positif>
+    <tai_negatif>つかれたくない</tai_negatif>
+    <mashou_positif>つかれましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>つかれる</kamus_positif>
+    <kamus_negatif> つかれない</kamus_negatif>
+    <ta_positif>つかれた</ta_positif>
+    <ta_negatif> つかれなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>つかれれます</potensial_positif>
+    <potensial_negatif>つかれれません</potensial_negatif>
+    <ajakan_positif>つかれよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>つかれろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>つかれるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>つかれれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>つかれられます</pasif_positif>
+    <pasif_negatif>つかれられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>90</id>
+    <kata>menghidupkan (lampu)</kata>
+    <kanji>付ける</kanji>
+    <masu_positif>つけます</masu_positif>
+    <masu_negatif> つけません</masu_negatif>
+    <mashita_positif>つけました</mashita_positif>
+    <mashita_negatif>つけませんでした</mashita_negatif>
+    <te_positif>つけて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>つけたい</tai_positif>
+    <tai_negatif>つけたくない</tai_negatif>
+    <mashou_positif>つけましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>つける</kamus_positif>
+    <kamus_negatif> つけない</kamus_negatif>
+    <ta_positif>つけた</ta_positif>
+    <ta_negatif>つけなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>つけれます </potensial_positif>
+    <potensial_negatif> つけれません</potensial_negatif>
+    <ajakan_positif>つけよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>つけろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>つけるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>つければ</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>つけられます</pasif_positif>
+    <pasif_negatif>つけられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>91</id>
+    <kata>lahir</kata>
+    <kanji>生まれる</kanji>
+    <masu_positif>うまれます</masu_positif>
+    <masu_negatif> うまれません</masu_negatif>
+    <mashita_positif> うまれました</mashita_positif>
+    <mashita_negatif>うまれませんでした</mashita_negatif>
+    <te_positif>うまれて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>うまれたい</tai_positif>
+    <tai_negatif>うまれたくない</tai_negatif>
+    <mashou_positif>うまれましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>うまれる</kamus_positif>
+    <kamus_negatif> うまれない</kamus_negatif>
+    <ta_positif>うまれた</ta_positif>
+    <ta_negatif> うまれなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>うまれれます</potensial_positif>
+    <potensial_negatif>うまれれません</potensial_negatif>
+    <ajakan_positif> うまれよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>うまれろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>うまれるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>うまれれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>うまれられます</pasif_positif>
+    <pasif_negatif>うまれられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>92</id>
+    <kata>membagi; memisahkan</kata>
+    <kanji>分ける</kanji>
+    <masu_positif> わけます</masu_positif>
+    <masu_negatif> わけません</masu_negatif>
+    <mashita_positif>わけました</mashita_positif>
+    <mashita_negatif>わけませんでした</mashita_negatif>
+    <te_positif>わけて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>わけたい</tai_positif>
+    <tai_negatif>わけたくない</tai_negatif>
+    <mashou_positif>わけましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>わける</kamus_positif>
+    <kamus_negatif> わけない</kamus_negatif>
+    <ta_positif>わけた</ta_positif>
+    <ta_negatif>わけなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>わけれます </potensial_positif>
+    <potensial_negatif>わけれません</potensial_negatif>
+    <ajakan_positif> わけよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>わけろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>わけるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>わければ</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>わけられます</pasif_positif>
+    <pasif_negatif>わけられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>93</id>
+    <kata> lupa</kata>
+    <kanji>忘れる</kanji>
+    <masu_positif>わすれます </masu_positif>
+    <masu_negatif> わすれません</masu_negatif>
+    <mashita_positif>わすれました</mashita_positif>
+    <mashita_negatif>わすれませんでした</mashita_negatif>
+    <te_positif>わすれて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>わすれたい</tai_positif>
+    <tai_negatif>わすれたくない</tai_negatif>
+    <mashou_positif>わすれましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>わすれる</kamus_positif>
+    <kamus_negatif> わすれない</kamus_negatif>
+    <ta_positif>わすれた</ta_positif>
+    <ta_negatif>わすれなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>わすれれます</potensial_positif>
+    <potensial_negatif>わすれれません</potensial_negatif>
+    <ajakan_positif>わすれよう </ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>わすれろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>わすれるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>わすれれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>わすれられます</pasif_positif>
+    <pasif_negatif>わすれられません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>94</id>
+    <kata>mencintai</kata>
+    <kanji>愛する</kanji>
+    <masu_positif>あいします</masu_positif>
+    <masu_negatif> あいしません</masu_negatif>
+    <mashita_positif>あいしました</mashita_positif>
+    <mashita_negatif>あいしませんでした</mashita_negatif>
+    <te_positif>あいして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>あいしたい</tai_positif>
+    <tai_negatif>あいしたくない</tai_negatif>
+    <mashou_positif>あいしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>あいする</kamus_positif>
+    <kamus_negatif> あいしない</kamus_negatif>
+    <ta_positif>あいした</ta_positif>
+    <ta_negatif> あいしなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif> あいできます</potensial_positif>
+    <potensial_negatif> あいできません</potensial_negatif>
+    <ajakan_positif>あいしよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>あいしろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>あいするな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>あいすれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>あいされます</pasif_positif>
+    <pasif_negatif>あいされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>95</id>
+    <kata>belajar</kata>
+    <kanji>勉強する</kanji>
+    <masu_positif>べんきょうします</masu_positif>
+    <masu_negatif>べんきょうしません</masu_negatif>
+    <mashita_positif>べんきょうしました</mashita_positif>
+    <mashita_negatif>べんきょうしませんでした</mashita_negatif>
+    <te_positif>べんきょうして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>べんきょうしたい</tai_positif>
+    <tai_negatif>べんきょうしたくない</tai_negatif>
+    <mashou_positif>べんきょうしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>べんきょうする</kamus_positif>
+    <kamus_negatif>べんきょうしない</kamus_negatif>
+    <ta_positif>べんきょうした</ta_positif>
+    <ta_negatif> べんきょうしなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>べんきょうできます</potensial_positif>
+    <potensial_negatif>べんきょうできません</potensial_negatif>
+    <ajakan_positif>べんきょうしよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>べんきょうしろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>べんきょうするな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>べんきょうすれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>べんきょうされます </pasif_positif>
+    <pasif_negatif>べんきょうされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>96</id>
+    <kata>menabung</kata>
+    <kanji>貯金する</kanji>
+    <masu_positif> ちょきんします</masu_positif>
+    <masu_negatif> ちょきんしません</masu_negatif>
+    <mashita_positif> ちょきんしました</mashita_positif>
+    <mashita_negatif>ちょきんしませんでした</mashita_negatif>
+    <te_positif>ちょきんして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>ちょきんしたい</tai_positif>
+    <tai_negatif>ちょきんしたくない</tai_negatif>
+    <mashou_positif>ちょきんしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>ちょきんする</kamus_positif>
+    <kamus_negatif> ちょきんしない</kamus_negatif>
+    <ta_positif>ちょきんした</ta_positif>
+    <ta_negatif> ちょきんしなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>ちょきんできます</potensial_positif>
+    <potensial_negatif>ちょきんできません</potensial_negatif>
+    <ajakan_positif>ちょきんしよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>ちょきんしろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>ちょきんするな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>ちょきんすれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>ちょきんされます</pasif_positif>
+    <pasif_negatif>ちょきんされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>97</id>
+    <kata>pindah (rumah)</kata>
+    <kanji>引っ越しする</kanji>
+    <masu_positif>ひっこしします</masu_positif>
+    <masu_negatif> ひっこししません</masu_negatif>
+    <mashita_positif>ひっこししました</mashita_positif>
+    <mashita_negatif>  ひっこししませんでした</mashita_negatif>
+    <te_positif>ひっこしして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>ひっこししたい</tai_positif>
+    <tai_negatif>ひっこししたくない</tai_negatif>
+    <mashou_positif>ひっこししましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>ひっこしする</kamus_positif>
+    <kamus_negatif> ひっこししない</kamus_negatif>
+    <ta_positif>ひっこしした</ta_positif>
+    <ta_negatif> ひっこしなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>ひっこしできます</potensial_positif>
+    <potensial_negatif> ひっこしできません</potensial_negatif>
+    <ajakan_positif>ひっこししよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>ひっこししろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>ひっこしするな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>ひっこしすれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>ひっこしされます</pasif_positif>
+    <pasif_negatif>ひっこしされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>98</id>
+    <kata>berbelanja</kata>
+    <kanji>買い物する</kanji>
+    <masu_positif>かいものします</masu_positif>
+    <masu_negatif> かいものしません</masu_negatif>
+    <mashita_positif>かいものしました</mashita_positif>
+    <mashita_negatif> かいものしませんでした</mashita_negatif>
+    <te_positif>かいものして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>かいものしたい</tai_positif>
+    <tai_negatif>かいものしたくない</tai_negatif>
+    <mashou_positif>かいものしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>かいものする</kamus_positif>
+    <kamus_negatif> かいものしない</kamus_negatif>
+    <ta_positif>かいものした</ta_positif>
+    <ta_negatif> かいものしなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>かいものできます</potensial_positif>
+    <potensial_negatif>かいものできません</potensial_negatif>
+    <ajakan_positif>かいものしよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>かいものしろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>かいものするな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>かいものすれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>かいものされます</pasif_positif>
+    <pasif_negatif>かいものされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>99</id>
+    <kata>menikah; kawin</kata>
+    <kanji>結婚する</kanji>
+    <masu_positif> けっこんします</masu_positif>
+    <masu_negatif> けっこんしません</masu_negatif>
+    <mashita_positif>けっこんしました</mashita_positif>
+    <mashita_negatif>けっこんしませんでした</mashita_negatif>
+    <te_positif>けっこんして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>けっこんしたい</tai_positif>
+    <tai_negatif>けっこんしたくない</tai_negatif>
+    <mashou_positif>けっこんしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>けっこんする</kamus_positif>
+    <kamus_negatif> けっこんしない</kamus_negatif>
+    <ta_positif>けっこんした</ta_positif>
+    <ta_negatif> けっこんしなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>けっこんできます</potensial_positif>
+    <potensial_negatif>けっこんできません</potensial_negatif>
+    <ajakan_positif> けっこんしよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>けっこんしろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>けっこんするな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>けっこんすれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>けっこんされます</pasif_positif>
+    <pasif_negatif>けっこんされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>100</id>
+    <kata>meneliti</kata>
+    <kanji>研究する</kanji>
+    <masu_positif> けんきゅうします</masu_positif>
+    <masu_negatif> けんきゅうしません</masu_negatif>
+    <mashita_positif> けんきゅうしました</mashita_positif>
+    <mashita_negatif>  けんきゅうしませんでした</mashita_negatif>
+    <te_positif>けんきゅうして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>けんきゅうしたい</tai_positif>
+    <tai_negatif>けんきゅうしたくない</tai_negatif>
+    <mashou_positif>けんきゅうしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>けんきゅうする</kamus_positif>
+    <kamus_negatif> けんきゅうしない</kamus_negatif>
+    <ta_positif>けんきゅうした</ta_positif>
+    <ta_negatif> けんきゅうしなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>けんきゅうできます</potensial_positif>
+    <potensial_negatif>けんきゅうできません</potensial_negatif>
+    <ajakan_positif>けんきゅうしよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>けんきゅうしろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>けんきゅうするな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>けんきゅうすれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>けんきゅうされます</pasif_positif>
+    <pasif_negatif>けんきゅうされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>101</id>
+    <kata>berjalan-jalan (di taman)</kata>
+    <kanji>散歩する</kanji>
+    <masu_positif>さんぽします</masu_positif>
+    <masu_negatif> さんぽしません</masu_negatif>
+    <mashita_positif>さんぽしました</mashita_positif>
+    <mashita_negatif> さんぽしませんでした</mashita_negatif>
+    <te_positif>さんぽして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>さんぽしたい</tai_positif>
+    <tai_negatif>さんぽしたくない</tai_negatif>
+    <mashou_positif>さんぽしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>さんぽする</kamus_positif>
+    <kamus_negatif> さんぽしない</kamus_negatif>
+    <ta_positif>さんぽした</ta_positif>
+    <ta_negatif> さんぽしなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>さんぽできます</potensial_positif>
+    <potensial_negatif> さんぽできません</potensial_negatif>
+    <ajakan_positif>さんぽしよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>さんぽしろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>さんぽするな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>さんぽすれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>さんぽされます</pasif_positif>
+    <pasif_negatif>さんぽされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>102</id>
+    <kata>belajar di luar negeri</kata>
+    <kanji>留学する</kanji>
+    <masu_positif>りゅうがくします</masu_positif>
+    <masu_negatif>りゅうがくしません</masu_negatif>
+    <mashita_positif>りゅうがくしました</mashita_positif>
+    <mashita_negatif>りゅうがくしませんでした</mashita_negatif>
+    <te_positif>りゅうがくして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>りゅうがくしたい</tai_positif>
+    <tai_negatif>りゅうがくしたくない</tai_negatif>
+    <mashou_positif>りゅうがくしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>りゅうがくする</kamus_positif>
+    <kamus_negatif> りゅうがくしない</kamus_negatif>
+    <ta_positif>りゅうがくした</ta_positif>
+    <ta_negatif> りゅうがくしなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>りゅうがくできます</potensial_positif>
+    <potensial_negatif>りゅうがくできません</potensial_negatif>
+    <ajakan_positif>りゅうがくしよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>りゅうがくしろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>りゅうがくするな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif> りゅうがくすれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>りゅうがくされます</pasif_positif>
+    <pasif_negatif>りゅうがくされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>103</id>
+    <kata>berunding;membicarakan</kata>
+    <kanji>相談する</kanji>
+    <masu_positif>そうだんします</masu_positif>
+    <masu_negatif> そうだんしません</masu_negatif>
+    <mashita_positif> そうだんしました</mashita_positif>
+    <mashita_negatif>  そうだんしませんでした</mashita_negatif>
+    <te_positif>そうだんして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>そうだんしたい</tai_positif>
+    <tai_negatif>そうだんしたくない</tai_negatif>
+    <mashou_positif>そうだんしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>そうだんする</kamus_positif>
+    <kamus_negatif> そうだんしない</kamus_negatif>
+    <ta_positif>そうだんした</ta_positif>
+    <ta_negatif> そうだんしなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>そうだんできます</potensial_positif>
+    <potensial_negatif>そうだんできません</potensial_negatif>
+    <ajakan_positif>そうだんしよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>そうだんしろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>そうだんするな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>そうだんすれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>そうだんされます</pasif_positif>
+    <pasif_negatif>そうだんされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>104</id>
+    <kata>berolahraga</kata>
+    <kanji>運動する</kanji>
+    <masu_positif>うんどうします</masu_positif>
+    <masu_negatif> うんどうしません</masu_negatif>
+    <mashita_positif>うんどうしました</mashita_positif>
+    <mashita_negatif>うんどうしませんでした</mashita_negatif>
+    <te_positif>うんどうして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>うんどうしたい</tai_positif>
+    <tai_negatif>うんどうしたくない</tai_negatif>
+    <mashou_positif>うんどうしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>うんどうする</kamus_positif>
+    <kamus_negatif> うんどうしない</kamus_negatif>
+    <ta_positif>うんどうした</ta_positif>
+    <ta_negatif> うんどうしなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>うんどうできます</potensial_positif>
+    <potensial_negatif>うんどうできません</potensial_negatif>
+    <ajakan_positif> うんどうしよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>うんどうしろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>うんどうするな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>うんどうすれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>うんどうされます</pasif_positif>
+    <pasif_negatif>うんどうされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>105</id>
+    <kata>menyetir (mobil)</kata>
+    <kanji>運転する</kanji>
+    <masu_positif>うんてんします</masu_positif>
+    <masu_negatif> うんてんしません</masu_negatif>
+    <mashita_positif> うんてんしました</mashita_positif>
+    <mashita_negatif>うんてんしませんでした</mashita_negatif>
+    <te_positif>うんてんして</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>うんてんしたい</tai_positif>
+    <tai_negatif>うんてんしたくない</tai_negatif>
+    <mashou_positif>うんてんしましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>うんてんする</kamus_positif>
+    <kamus_negatif> うんてんしない</kamus_negatif>
+    <ta_positif>うんてんした</ta_positif>
+    <ta_negatif> うんてんしなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>うんてんできます</potensial_positif>
+    <potensial_negatif>うんてんできません</potensial_negatif>
+    <ajakan_positif>うんてんしよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>うんてんしろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>うんてんするな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>うんてんすれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>うんてんされます</pasif_positif>
+    <pasif_negatif>うんてんされません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>106</id>
+    <kata>berbuat;mengerjakan;melakukan</kata>
+    <kanji>する</kanji>
+    <masu_positif> します</masu_positif>
+    <masu_negatif> しません</masu_negatif>
+    <mashita_positif> しました</mashita_positif>
+    <mashita_negatif>  しませんでした</mashita_negatif>
+    <te_positif>して</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>したい</tai_positif>
+    <tai_negatif>したくない</tai_negatif>
+    <mashou_positif>しましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>する</kamus_positif>
+    <kamus_negatif> しない</kamus_negatif>
+    <ta_positif>した</ta_positif>
+    <ta_negatif>しなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>できます</potensial_positif>
+    <potensial_negatif> できません</potensial_negatif>
+    <ajakan_positif> しよう</ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>しろ</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>するな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>すれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>されます</pasif_positif>
+    <pasif_negatif>されません</pasif_negatif>
+  </konjugasi>
+  <konjugasi>
+    <id>107</id>
+    <kata>datang</kata>
+    <kanji>来る</kanji>
+    <masu_positif> きます</masu_positif>
+    <masu_negatif> きません</masu_negatif>
+    <mashita_positif> きました</mashita_positif>
+    <mashita_negatif>  きませんでした</mashita_negatif>
+    <te_positif>きて</te_positif>
+    <te_negatif> </te_negatif>
+    <tai_positif>きたい</tai_positif>
+    <tai_negatif>きたくない</tai_negatif>
+    <mashou_positif>きましょう</mashou_positif>
+    <mashou_negatif> </mashou_negatif>
+    <kamus_positif>くる</kamus_positif>
+    <kamus_negatif> こない</kamus_negatif>
+    <ta_positif>きた</ta_positif>
+    <ta_negatif>こなかった</ta_negatif>
+    <tara_positif> </tara_positif>
+    <tara_negatif> </tara_negatif>
+    <potensial_positif>こられます</potensial_positif>
+    <potensial_negatif> こられません</potensial_negatif>
+    <ajakan_positif>こよう </ajakan_positif>
+    <ajakan_negatif> </ajakan_negatif>
+    <perintah_positif>こい</perintah_positif>
+    <perintah_negatif> </perintah_negatif>
+    <larangan_positif>くるな</larangan_positif>
+    <larangan_negatif> </larangan_negatif>
+    <ba_positif>くれば</ba_positif>
+    <ba_negatif> </ba_negatif>
+    <pasif_positif>こられます</pasif_positif>
+    <pasif_negatif>こられません</pasif_negatif>
+  </konjugasi>
+</konjugasi_data>

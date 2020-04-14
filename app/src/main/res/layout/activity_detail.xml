@@ -482,7 +482,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Tai (~ たい   )"
+                        android:text="Bentuk Keinginan"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout
@@ -669,7 +669,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Potensial (~ られます )"
+                        android:text="Bentuk Potensial"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout
@@ -804,7 +804,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Ba (~ば)"
+                        android:text="Bentuk Pengandaian"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout
@@ -871,7 +871,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
-                        android:text="Bentuk Pasif (~れます)"
+                        android:text="Bentuk Pasif"
                         android:textSize="@dimen/_12sdp"/>
                 </LinearLayout>
                 <LinearLayout
